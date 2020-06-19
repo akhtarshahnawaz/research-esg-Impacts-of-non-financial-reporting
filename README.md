@@ -1,2 +1,4 @@
-# -Research-Does-Mandatory-Non-Financial-Reporting-Affect-Firms-ESG-Behavior-Does-Mandatory-Non-Finan
-Does Mandatory Non-Financial Reporting Affect Firms’ ESG Behavior?
+# Does Mandatory Non-Financial Reporting Affect Firms’ ESG Behavior?
+#### Shahnawaz Akhtar, Elisa Saporito
+This paper studies whether regulations on mandatory non-financial performance reporting have positive effects on firms’ environmental and social governance policies. Our identification strategy is based on studying the effect of a law enacted by the European Union (EU Directive 2014/95/EU) that mandates large companies to report their non-financial performance post 2017. Using data on (i) EEA Emissions Trading, (ii) MSCI ESG rating, (iii) R&D Spending, (iv) R&D Spending intensity (v) Operating Revenue per Employee and (vi) Profit Margin,we analyse firms’ ESG behavior pre and post implementation of the directive in 2017.
+The evidence does not suggest any significant positive change in ESG behavior of firms post implementation of the directive. There is some negative effect on operating revenue per employee which we used as a proxy for exploitation of employees, however the negative sign of the coefficient is counterintuitive, and significance is lost when controlled for other demographic and financial characteristics.
