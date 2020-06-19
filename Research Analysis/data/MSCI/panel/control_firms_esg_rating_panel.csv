@@ -1,0 +1,148 @@
+company_id,country,industry,date,esg_rating
+IID000000002125950,Netherlands,Aerospace & Defense,Nov-15,A
+IID000000002125950,Netherlands,Aerospace & Defense,Nov-16,A
+IID000000002125950,Netherlands,Aerospace & Defense,Dec-17,BBB
+IID000000002125950,Netherlands,Aerospace & Defense,Dec-18,BBB
+IID000000002125950,Netherlands,Aerospace & Defense,Nov-19,BBB
+IID000000002141992,Taiwan,Life & Health Insurance,May-16,BBB
+IID000000002141992,Taiwan,Life & Health Insurance,Jun-17,BBB
+IID000000002141992,Taiwan,Life & Health Insurance,Jun-18,A
+IID000000002141992,Taiwan,Life & Health Insurance,Feb-19,A
+IID000000002141992,Taiwan,Life & Health Insurance,Jan-20,A
+IID000000002142081,Australia,Software & Services,May-16,A
+IID000000002142081,Australia,Software & Services,May-17,A
+IID000000002142081,Australia,Software & Services,May-18,A
+IID000000002142081,Australia,Software & Services,Sep-19,A
+IID000000002142081,Australia,Software & Services,Jan-20,A
+IID000000002142122,Denmark,Biotechnology,Oct-15,A
+IID000000002142122,Denmark,Biotechnology,Oct-16,A
+IID000000002142122,Denmark,Biotechnology,Oct-17,A
+IID000000002142122,Denmark,Biotechnology,Nov-18,A
+IID000000002142122,Denmark,Biotechnology,Jun-19,A
+IID000000002144864,Netherlands,Professional Services,Aug-15,BBB
+IID000000002144864,Netherlands,Professional Services,Aug-16,BBB
+IID000000002144864,Netherlands,Professional Services,Mar-17,AA
+IID000000002144864,Netherlands,Professional Services,Mar-18,AA
+IID000000002144864,Netherlands,Professional Services,Apr-19,AA
+IID000000002148930,Portugal,Utilities,Nov-15,AAA
+IID000000002148930,Portugal,Utilities,Nov-16,AAA
+IID000000002148930,Portugal,Utilities,Nov-17,AAA
+IID000000002148930,Portugal,Utilities,Nov-18,AAA
+IID000000002148930,Portugal,Utilities,Aug-19,AAA
+IID000000002153232,Germany,Automobiles,Oct-15,CCC
+IID000000002153232,Germany,Automobiles,Jul-16,CCC
+IID000000002153232,Germany,Automobiles,Jul-17,CCC
+IID000000002153232,Germany,Automobiles,Aug-18,CCC
+IID000000002153232,Germany,Automobiles,Sep-19,CCC
+IID000000002153917,Luxembourg,Energy Equipment & Services,Nov-15,BB
+IID000000002153917,Luxembourg,Energy Equipment & Services,Nov-16,BB
+IID000000002153917,Luxembourg,Energy Equipment & Services,Nov-17,BB
+IID000000002153917,Luxembourg,Energy Equipment & Services,Oct-18,BB
+IID000000002153917,Luxembourg,Energy Equipment & Services,Nov-19,BB
+IID000000002160173,United Kingdom,Real Estate Management & Services,Aug-17,AAA
+IID000000002160173,United Kingdom,Real Estate Management & Services,Aug-18,AAA
+IID000000002160173,United Kingdom,Real Estate Management & Services,Oct-19,AAA
+IID000000002167383,Portugal,Integrated Oil & Gas,Aug-15,AA
+IID000000002167383,Portugal,Integrated Oil & Gas,Aug-16,AA
+IID000000002167383,Portugal,Integrated Oil & Gas,Jul-17,AA
+IID000000002167383,Portugal,Integrated Oil & Gas,Jul-18,AAA
+IID000000002167383,Portugal,Integrated Oil & Gas,Oct-19,AAA
+IID000000002172773,Sweden,Diversified Financials,Feb-16,A
+IID000000002172773,Sweden,Diversified Financials,Aug-16,AA
+IID000000002172773,Sweden,Diversified Financials,Feb-17,AA
+IID000000002172773,Sweden,Diversified Financials,Feb-18,AA
+IID000000002172773,Sweden,Diversified Financials,Jul-19,AA
+IID000000002172935,Netherlands,Retail - Food & Staples,Sep-15,BBB
+IID000000002172935,Netherlands,Retail - Food & Staples,Sep-16,A
+IID000000002172935,Netherlands,Retail - Food & Staples,Sep-17,A
+IID000000002172935,Netherlands,Retail - Food & Staples,Sep-18,A
+IID000000002172935,Netherlands,Retail - Food & Staples,Jul-19,A
+IID000000002174156,Sweden,Oil & Gas Exploration & Production,May-15,AA
+IID000000002174156,Sweden,Oil & Gas Exploration & Production,May-16,AA
+IID000000002174156,Sweden,Oil & Gas Exploration & Production,May-17,AA
+IID000000002174156,Sweden,Oil & Gas Exploration & Production,Jun-18,AA
+IID000000002174156,Sweden,Oil & Gas Exploration & Production,Oct-19,AA
+IID000000002174861,Norway,Food Products,Jul-15,BBB
+IID000000002174861,Norway,Food Products,Jul-16,BBB
+IID000000002174861,Norway,Food Products,Oct-17,A
+IID000000002174861,Norway,Food Products,Oct-18,AA
+IID000000002174861,Norway,Food Products,Nov-19,AA
+IID000000002175694,Luxembourg,Telecommunication Services,Mar-16,A
+IID000000002175694,Luxembourg,Telecommunication Services,Mar-17,A
+IID000000002175694,Luxembourg,Telecommunication Services,Dec-17,AA
+IID000000002175694,Luxembourg,Telecommunication Services,Apr-18,AA
+IID000000002175694,Luxembourg,Telecommunication Services,Jul-19,AA
+IID000000002178258,Poland,Media & Entertainment,Jan-18,BB
+IID000000002178258,Poland,Media & Entertainment,Aug-18,BB
+IID000000002178258,Poland,Media & Entertainment,Jun-19,BBB
+IID000000002182053,United Kingdom,Real Estate Management & Services,Apr-15,AAA
+IID000000002182053,United Kingdom,Real Estate Management & Services,May-16,AAA
+IID000000002182053,United Kingdom,Real Estate Management & Services,May-17,AAA
+IID000000002182053,United Kingdom,Real Estate Management & Services,May-18,AAA
+IID000000002182053,United Kingdom,Real Estate Management & Services,Sep-19,AAA
+IID000000002187964,Netherlands,Household & Personal Products,Jul-16,A
+IID000000002187964,Netherlands,Household & Personal Products,Apr-17,A
+IID000000002187964,Netherlands,Household & Personal Products,Jul-17,A
+IID000000002187964,Netherlands,Household & Personal Products,Jul-18,A
+IID000000002187964,Netherlands,Household & Personal Products,Sep-19,A
+IID000000002202598,Luxembourg,Media & Entertainment,Jun-15,A
+IID000000002202598,Luxembourg,Media & Entertainment,Apr-16,A
+IID000000002202598,Luxembourg,Media & Entertainment,Apr-17,AA
+IID000000002202598,Luxembourg,Media & Entertainment,May-18,AA
+IID000000002202598,Luxembourg,Media & Entertainment,Sep-19,A
+IID000000002386894,Luxembourg,Asset Management & Custody Banks,Jul-18,B
+IID000000002386894,Luxembourg,Asset Management & Custody Banks,Oct-19,B
+IID000000002596602,Netherlands,Retail - Consumer Discretionary,May-16,BBB
+IID000000002596602,Netherlands,Retail - Consumer Discretionary,Jun-16,BB
+IID000000002596602,Netherlands,Retail - Consumer Discretionary,Apr-17,BBB
+IID000000002596602,Netherlands,Retail - Consumer Discretionary,Jun-18,BBB
+IID000000002596602,Netherlands,Retail - Consumer Discretionary,Oct-19,A
+IID000000002630755,Italy,"Textiles, Apparel & Luxury Goods",Aug-15,BB
+IID000000002630755,Italy,"Textiles, Apparel & Luxury Goods",Aug-16,BBB
+IID000000002630755,Italy,"Textiles, Apparel & Luxury Goods",Aug-17,BBB
+IID000000002630755,Italy,"Textiles, Apparel & Luxury Goods",Sep-18,BBB
+IID000000002630755,Italy,"Textiles, Apparel & Luxury Goods",Oct-19,BBB
+IID000000002655733,Ireland,Electrical Equipment,Mar-15,BBB
+IID000000002655733,Ireland,Electrical Equipment,Mar-16,BBB
+IID000000002655733,Ireland,Electrical Equipment,Apr-17,BBB
+IID000000002655733,Ireland,Electrical Equipment,Apr-18,BBB
+IID000000002655733,Ireland,Electrical Equipment,Nov-19,BBB
+IID000000002669433,United Kingdom,Media & Entertainment,Apr-16,A
+IID000000002669433,United Kingdom,Media & Entertainment,Oct-16,A
+IID000000002669433,United Kingdom,Media & Entertainment,May-17,A
+IID000000002669433,United Kingdom,Media & Entertainment,Jun-18,A
+IID000000002669433,United Kingdom,Media & Entertainment,Oct-19,BBB
+IID000000002670343,Germany,Construction & Farm Machinery & Heavy Trucks,Aug-15,A
+IID000000002670343,Germany,Construction & Farm Machinery & Heavy Trucks,Apr-16,A
+IID000000002670343,Germany,Construction & Farm Machinery & Heavy Trucks,Apr-17,A
+IID000000002670343,Germany,Construction & Farm Machinery & Heavy Trucks,May-18,A
+IID000000002670343,Germany,Construction & Farm Machinery & Heavy Trucks,Aug-19,A
+IID000000002700235,Luxembourg,Software & Services,Mar-19,BB
+IID000000002700235,Luxembourg,Software & Services,Oct-19,BBB
+IID000000002717694,Ireland,Building Products,Feb-17,A
+IID000000002717694,Ireland,Building Products,Feb-17,A
+IID000000002717694,Ireland,Building Products,May-17,AA
+IID000000002717694,Ireland,Building Products,Mar-18,AAA
+IID000000002717694,Ireland,Building Products,Jun-19,AAA
+IID000000002742659,United States of America,Professional Services,Sep-16,B
+IID000000002742659,United States of America,Professional Services,Mar-17,BB
+IID000000002742659,United States of America,Professional Services,Apr-17,BB
+IID000000002742659,United States of America,Professional Services,Apr-18,BBB
+IID000000002742659,United States of America,Professional Services,Sep-19,A
+IID000000002766031,United Kingdom,Beverages,Jun-15,AAA
+IID000000002766031,United Kingdom,Beverages,Jun-16,AAA
+IID000000002766031,United Kingdom,Beverages,Jun-17,AAA
+IID000000002766031,United Kingdom,Beverages,Aug-18,AAA
+IID000000002766031,United Kingdom,Beverages,Nov-19,AAA
+IID000000002773073,Netherlands,Retail - Consumer Discretionary,Oct-17,B
+IID000000002773073,Netherlands,Retail - Consumer Discretionary,Nov-18,BB
+IID000000002773073,Netherlands,Retail - Consumer Discretionary,Nov-19,BB
+IID000000002817953,Luxembourg,Real Estate Management & Services,Apr-18,BB
+IID000000002817953,Luxembourg,Real Estate Management & Services,Sep-19,BB
+IID000000002832990,Germany,Health Care Equipment & Supplies,Apr-18,BB
+IID000000002832990,Germany,Health Care Equipment & Supplies,Apr-19,BB
+IID000000002863229,Germany,Retail - Consumer Discretionary,Apr-18,BB
+IID000000002863229,Germany,Retail - Consumer Discretionary,Aug-18,BB
+IID000000002863229,Germany,Retail - Consumer Discretionary,Nov-19,A
+IID000000002953300,Switzerland,Health Care Equipment & Supplies,Apr-19,AA
+IID000000005007984,United Kingdom,Diversified Financials,Jan-20,BBB

@@ -1,0 +1,1340 @@
+company_id,country,industry,date,esg_rating
+IID000000002123744,Switzerland,Electrical Equipment,Mar-15,A
+IID000000002123744,Switzerland,Electrical Equipment,Mar-16,AA
+IID000000002123744,Switzerland,Electrical Equipment,Apr-17,AA
+IID000000002123744,Switzerland,Electrical Equipment,Apr-18,AA
+IID000000002123744,Switzerland,Electrical Equipment,Oct-19,AA
+IID000000002123767,United Kingdom,Food Products,Nov-15,A
+IID000000002123767,United Kingdom,Food Products,Dec-16,A
+IID000000002123767,United Kingdom,Food Products,Dec-17,AA
+IID000000002123767,United Kingdom,Food Products,Dec-18,AA
+IID000000002123767,United Kingdom,Food Products,Dec-19,AA
+IID000000002123771,United Kingdom,Telecommunication Services,Feb-17,AA
+IID000000002123771,United Kingdom,Telecommunication Services,Feb-18,AA
+IID000000002123771,United Kingdom,Telecommunication Services,Mar-19,AA
+IID000000002123931,United Kingdom,Metals and Mining - Non-Precious Metals,Nov-15,BBB
+IID000000002123931,United Kingdom,Metals and Mining - Non-Precious Metals,Dec-16,BBB
+IID000000002123931,United Kingdom,Metals and Mining - Non-Precious Metals,Dec-17,BBB
+IID000000002123931,United Kingdom,Metals and Mining - Non-Precious Metals,Nov-18,BBB
+IID000000002123931,United Kingdom,Metals and Mining - Non-Precious Metals,Jun-19,BBB
+IID000000002123944,Germany,Pharmaceuticals,Oct-17,BBB
+IID000000002123944,Germany,Pharmaceuticals,Jun-18,BBB
+IID000000002123944,Germany,Pharmaceuticals,Sep-18,BBB
+IID000000002123944,Germany,Pharmaceuticals,Dec-18,BBB
+IID000000002123944,Germany,Pharmaceuticals,May-19,BB
+IID000000002123948,United Kingdom,Trading Companies & Distributors,May-15,AA
+IID000000002123948,United Kingdom,Trading Companies & Distributors,Jun-16,AA
+IID000000002123948,United Kingdom,Trading Companies & Distributors,Jun-17,AA
+IID000000002123948,United Kingdom,Trading Companies & Distributors,Jun-18,A
+IID000000002123948,United Kingdom,Trading Companies & Distributors,Sep-19,A
+IID000000002123955,Finland,"Technology Hardware, Storage & Peripherals",Aug-15,A
+IID000000002123955,Finland,"Technology Hardware, Storage & Peripherals",Aug-16,AA
+IID000000002123955,Finland,"Technology Hardware, Storage & Peripherals",Aug-17,AA
+IID000000002123955,Finland,"Technology Hardware, Storage & Peripherals",Sep-18,AA
+IID000000002123955,Finland,"Technology Hardware, Storage & Peripherals",Nov-19,AA
+IID000000002123961,Finland,Paper & Forest Products,Jul-15,A
+IID000000002123961,Finland,Paper & Forest Products,Jul-16,AA
+IID000000002123961,Finland,Paper & Forest Products,Jul-17,AA
+IID000000002123961,Finland,Paper & Forest Products,Aug-18,AA
+IID000000002123961,Finland,Paper & Forest Products,Jul-19,AA
+IID000000002124154,Sweden,"Electronic Equipment, Instruments & Components",Apr-15,BBB
+IID000000002124154,Sweden,"Electronic Equipment, Instruments & Components",Apr-16,BBB
+IID000000002124154,Sweden,"Electronic Equipment, Instruments & Components",Apr-17,BBB
+IID000000002124154,Sweden,"Electronic Equipment, Instruments & Components",Jun-18,BBB
+IID000000002124154,Sweden,"Electronic Equipment, Instruments & Components",Aug-19,A
+IID000000002125284,United Kingdom,Beverages,Jun-15,AAA
+IID000000002125284,United Kingdom,Beverages,Jul-16,AAA
+IID000000002125284,United Kingdom,Beverages,Jul-17,AAA
+IID000000002125284,United Kingdom,Beverages,Jul-18,AAA
+IID000000002125284,United Kingdom,Beverages,Dec-19,AAA
+IID000000002125650,Ireland,Construction Materials,May-15,AAA
+IID000000002125650,Ireland,Construction Materials,May-16,AAA
+IID000000002125650,Ireland,Construction Materials,May-17,AAA
+IID000000002125650,Ireland,Construction Materials,May-18,AAA
+IID000000002125650,Ireland,Construction Materials,Jul-19,AAA
+IID000000002125950,Netherlands,Aerospace & Defense,Nov-15,A
+IID000000002125950,Netherlands,Aerospace & Defense,Nov-16,A
+IID000000002125950,Netherlands,Aerospace & Defense,Dec-17,BBB
+IID000000002125950,Netherlands,Aerospace & Defense,Dec-18,BBB
+IID000000002125950,Netherlands,Aerospace & Defense,Nov-19,BBB
+IID000000002126002,United Kingdom,Airlines,Aug-16,AAA
+IID000000002126002,United Kingdom,Airlines,Sep-17,AAA
+IID000000002126002,United Kingdom,Airlines,Sep-18,AAA
+IID000000002126002,United Kingdom,Airlines,Mar-19,AAA
+IID000000002126002,United Kingdom,Airlines,Jan-20,AAA
+IID000000002126501,Switzerland,Pharmaceuticals,Aug-16,BBB
+IID000000002126501,Switzerland,Pharmaceuticals,Sep-17,A
+IID000000002126501,Switzerland,Pharmaceuticals,Sep-18,A
+IID000000002126501,Switzerland,Pharmaceuticals,Mar-19,AA
+IID000000002126501,Switzerland,Pharmaceuticals,Jan-20,A
+IID000000002127391,United Kingdom,Aerospace & Defense,Nov-15,AA
+IID000000002127391,United Kingdom,Aerospace & Defense,Nov-16,AA
+IID000000002127391,United Kingdom,Aerospace & Defense,Dec-17,AA
+IID000000002127391,United Kingdom,Aerospace & Defense,Dec-18,AA
+IID000000002127391,United Kingdom,Aerospace & Defense,Jul-19,AA
+IID000000002127715,Norway,Metals and Mining - Non-Precious Metals,Nov-15,AAA
+IID000000002127715,Norway,Metals and Mining - Non-Precious Metals,Dec-16,AAA
+IID000000002127715,Norway,Metals and Mining - Non-Precious Metals,Dec-17,AAA
+IID000000002127715,Norway,Metals and Mining - Non-Precious Metals,Dec-18,AA
+IID000000002127715,Norway,Metals and Mining - Non-Precious Metals,Jul-19,AA
+IID000000002127907,Austria,Integrated Oil & Gas,Aug-15,AAA
+IID000000002127907,Austria,Integrated Oil & Gas,Aug-16,AAA
+IID000000002127907,Austria,Integrated Oil & Gas,Jul-17,AAA
+IID000000002127907,Austria,Integrated Oil & Gas,Jul-18,AAA
+IID000000002127907,Austria,Integrated Oil & Gas,Oct-19,AAA
+IID000000002128271,Denmark,Health Care Equipment & Supplies,Nov-15,BBB
+IID000000002128271,Denmark,Health Care Equipment & Supplies,Nov-16,BBB
+IID000000002128271,Denmark,Health Care Equipment & Supplies,Nov-17,BBB
+IID000000002128271,Denmark,Health Care Equipment & Supplies,Dec-18,BBB
+IID000000002128271,Denmark,Health Care Equipment & Supplies,Jun-19,A
+IID000000002128280,Netherlands,Professional Services,Feb-16,AA
+IID000000002128280,Netherlands,Professional Services,Sep-16,A
+IID000000002128280,Netherlands,Professional Services,Mar-17,A
+IID000000002128280,Netherlands,Professional Services,Apr-18,AA
+IID000000002128280,Netherlands,Professional Services,Nov-19,AAA
+IID000000002128288,United Kingdom,Industrial Conglomerates,Sep-16,A
+IID000000002128288,United Kingdom,Industrial Conglomerates,Aug-17,A
+IID000000002128288,United Kingdom,Industrial Conglomerates,Aug-18,AA
+IID000000002128288,United Kingdom,Industrial Conglomerates,Feb-19,AA
+IID000000002128288,United Kingdom,Industrial Conglomerates,Feb-20,AA
+IID000000002128376,United Kingdom,Media & Entertainment,Mar-15,AA
+IID000000002128376,United Kingdom,Media & Entertainment,Mar-16,AA
+IID000000002128376,United Kingdom,Media & Entertainment,Feb-17,A
+IID000000002128376,United Kingdom,Media & Entertainment,Mar-18,AA
+IID000000002128376,United Kingdom,Media & Entertainment,Sep-19,AA
+IID000000002128620,Italy,Pharmaceuticals,Nov-15,BBB
+IID000000002128620,Italy,Pharmaceuticals,Sep-16,BBB
+IID000000002128620,Italy,Pharmaceuticals,Sep-17,BBB
+IID000000002128620,Italy,Pharmaceuticals,Sep-18,BBB
+IID000000002128620,Italy,Pharmaceuticals,Jul-19,BBB
+IID000000002129057,Norway,Specialty Chemicals,Feb-15,BBB
+IID000000002129057,Norway,Specialty Chemicals,Feb-16,BBB
+IID000000002129057,Norway,Specialty Chemicals,Feb-17,BBB
+IID000000002129057,Norway,Specialty Chemicals,May-18,BBB
+IID000000002129057,Norway,Specialty Chemicals,Sep-19,BB
+IID000000002129110,United Kingdom,Industrial Machinery,Jan-15,A
+IID000000002129110,United Kingdom,Industrial Machinery,Jan-16,A
+IID000000002129110,United Kingdom,Industrial Machinery,Feb-17,A
+IID000000002129110,United Kingdom,Industrial Machinery,Mar-18,A
+IID000000002129110,United Kingdom,Industrial Machinery,May-19,A
+IID000000002129162,United Kingdom,Hotels & Travel,Sep-15,AA
+IID000000002129162,United Kingdom,Hotels & Travel,Sep-16,AA
+IID000000002129162,United Kingdom,Hotels & Travel,Jun-17,AA
+IID000000002129162,United Kingdom,Hotels & Travel,Jun-18,AA
+IID000000002129162,United Kingdom,Hotels & Travel,Nov-19,AA
+IID000000002130138,Germany,Utilities,Jul-16,AA
+IID000000002130138,Germany,Utilities,Oct-16,AA
+IID000000002130138,Germany,Utilities,Oct-17,AA
+IID000000002130138,Germany,Utilities,Oct-18,AA
+IID000000002130138,Germany,Utilities,Jul-19,AA
+IID000000002130215,Germany,Airlines,Aug-15,BBB
+IID000000002130215,Germany,Airlines,Aug-16,BBB
+IID000000002130215,Germany,Airlines,Sep-17,BBB
+IID000000002130215,Germany,Airlines,Oct-18,BBB
+IID000000002130215,Germany,Airlines,Oct-19,BBB
+IID000000002130820,Germany,Aerospace & Defense,Jul-15,A
+IID000000002130820,Germany,Aerospace & Defense,Jul-16,AA
+IID000000002130820,Germany,Aerospace & Defense,Aug-17,AA
+IID000000002130820,Germany,Aerospace & Defense,Aug-18,AA
+IID000000002130820,Germany,Aerospace & Defense,Nov-19,AA
+IID000000002132055,Ireland,Software & Services,Jun-16,AAA
+IID000000002132055,Ireland,Software & Services,Jun-17,AAA
+IID000000002132055,Ireland,Software & Services,Jun-18,AAA
+IID000000002132055,Ireland,Software & Services,Mar-19,AAA
+IID000000002132055,Ireland,Software & Services,Feb-20,AAA
+IID000000002132144,Sweden,Building Products,Feb-15,AA
+IID000000002132144,Sweden,Building Products,Feb-16,AA
+IID000000002132144,Sweden,Building Products,Feb-17,AA
+IID000000002132144,Sweden,Building Products,Mar-18,AA
+IID000000002132144,Sweden,Building Products,Aug-19,AA
+IID000000002132259,United Kingdom,Metals and Mining - Non-Precious Metals,Nov-16,BBB
+IID000000002132259,United Kingdom,Metals and Mining - Non-Precious Metals,Apr-17,BBB
+IID000000002132259,United Kingdom,Metals and Mining - Non-Precious Metals,Apr-18,BBB
+IID000000002132259,United Kingdom,Metals and Mining - Non-Precious Metals,Sep-19,BBB
+IID000000002132259,United Kingdom,Metals and Mining - Non-Precious Metals,Jan-20,BBB
+IID000000002132279,Germany,Health Care Providers & Services,May-16,BB
+IID000000002132279,Germany,Health Care Providers & Services,Sep-16,B
+IID000000002132279,Germany,Health Care Providers & Services,May-17,BB
+IID000000002132279,Germany,Health Care Providers & Services,Jun-18,BBB
+IID000000002132279,Germany,Health Care Providers & Services,Jul-19,BBB
+IID000000002132648,Switzerland,Household Durables,Dec-15,BBB
+IID000000002132648,Switzerland,Household Durables,Dec-16,BBB
+IID000000002132648,Switzerland,Household Durables,Aug-17,BBB
+IID000000002132648,Switzerland,Household Durables,Aug-18,BBB
+IID000000002132648,Switzerland,Household Durables,Jun-19,A
+IID000000002134176,Ireland,Industrial Conglomerates,Aug-15,AA
+IID000000002134176,Ireland,Industrial Conglomerates,Aug-16,AA
+IID000000002134176,Ireland,Industrial Conglomerates,Aug-17,AA
+IID000000002134176,Ireland,Industrial Conglomerates,Sep-18,AAA
+IID000000002134176,Ireland,Industrial Conglomerates,Oct-19,AAA
+IID000000002134340,Spain,Utilities,Jan-16,AA
+IID000000002134340,Spain,Utilities,Jan-17,AA
+IID000000002134340,Spain,Utilities,Jun-17,AA
+IID000000002134340,Spain,Utilities,Mar-18,AA
+IID000000002134340,Spain,Utilities,Oct-19,AA
+IID000000002134674,Switzerland,Building Products,Feb-16,A
+IID000000002134674,Switzerland,Building Products,Aug-16,AA
+IID000000002134674,Switzerland,Building Products,Feb-17,AA
+IID000000002134674,Switzerland,Building Products,Feb-18,AA
+IID000000002134674,Switzerland,Building Products,Jun-19,AA
+IID000000002134975,Netherlands,Beverages,Jun-15,A
+IID000000002134975,Netherlands,Beverages,Jun-16,AA
+IID000000002134975,Netherlands,Beverages,Jun-17,A
+IID000000002134975,Netherlands,Beverages,Jul-18,A
+IID000000002134975,Netherlands,Beverages,Nov-19,A
+IID000000002135027,Sweden,Retail - Consumer Discretionary,Apr-15,A
+IID000000002135027,Sweden,Retail - Consumer Discretionary,Apr-16,AA
+IID000000002135027,Sweden,Retail - Consumer Discretionary,Apr-17,AA
+IID000000002135027,Sweden,Retail - Consumer Discretionary,Apr-18,AA
+IID000000002135027,Sweden,Retail - Consumer Discretionary,Aug-19,AA
+IID000000002135208,United Kingdom,Hotels & Travel,Sep-15,AA
+IID000000002135208,United Kingdom,Hotels & Travel,Aug-16,AA
+IID000000002135208,United Kingdom,Hotels & Travel,Apr-17,AA
+IID000000002135208,United Kingdom,Hotels & Travel,May-18,AA
+IID000000002135208,United Kingdom,Hotels & Travel,Jun-19,AA
+IID000000002135288,Spain,Retail - Consumer Discretionary,Apr-15,AA
+IID000000002135288,Spain,Retail - Consumer Discretionary,May-16,AAA
+IID000000002135288,Spain,Retail - Consumer Discretionary,Apr-17,AAA
+IID000000002135288,Spain,Retail - Consumer Discretionary,Apr-18,AAA
+IID000000002135288,Spain,Retail - Consumer Discretionary,Aug-19,AAA
+IID000000002135404,Denmark,Pharmaceuticals,Nov-15,AAA
+IID000000002135404,Denmark,Pharmaceuticals,Sep-16,AAA
+IID000000002135404,Denmark,Pharmaceuticals,Sep-17,AAA
+IID000000002135404,Denmark,Pharmaceuticals,Sep-18,AAA
+IID000000002135404,Denmark,Pharmaceuticals,Jun-19,AAA
+IID000000002135451,United Kingdom,Utilities,Nov-15,AA
+IID000000002135451,United Kingdom,Utilities,Nov-16,AA
+IID000000002135451,United Kingdom,Utilities,Dec-17,AAA
+IID000000002135451,United Kingdom,Utilities,Dec-18,AAA
+IID000000002135451,United Kingdom,Utilities,Dec-19,AAA
+IID000000002136332,Switzerland,Asset Management & Custody Banks,Apr-15,BB
+IID000000002136332,Switzerland,Asset Management & Custody Banks,Apr-16,BB
+IID000000002136332,Switzerland,Asset Management & Custody Banks,May-17,BB
+IID000000002136332,Switzerland,Asset Management & Custody Banks,May-18,BB
+IID000000002136332,Switzerland,Asset Management & Custody Banks,Sep-19,BBB
+IID000000002137074,Netherlands,Integrated Oil & Gas,Jul-16,A
+IID000000002137074,Netherlands,Integrated Oil & Gas,Aug-17,BBB
+IID000000002137074,Netherlands,Integrated Oil & Gas,Aug-18,BBB
+IID000000002137074,Netherlands,Integrated Oil & Gas,Sep-18,BBB
+IID000000002137074,Netherlands,Integrated Oil & Gas,Oct-19,A
+IID000000002137159,United Kingdom,Household & Personal Products,Jul-16,A
+IID000000002137159,United Kingdom,Household & Personal Products,Apr-17,A
+IID000000002137159,United Kingdom,Household & Personal Products,Jul-17,A
+IID000000002137159,United Kingdom,Household & Personal Products,Jul-18,A
+IID000000002137159,United Kingdom,Household & Personal Products,Sep-19,A
+IID000000002137304,Austria,Steel,Nov-15,BBB
+IID000000002137304,Austria,Steel,Nov-16,A
+IID000000002137304,Austria,Steel,Nov-17,AA
+IID000000002137304,Austria,Steel,Nov-18,AA
+IID000000002137304,Austria,Steel,Nov-19,AA
+IID000000002137326,United Kingdom,Utilities,Oct-15,BBB
+IID000000002137326,United Kingdom,Utilities,Oct-16,BBB
+IID000000002137326,United Kingdom,Utilities,Sep-17,BBB
+IID000000002137326,United Kingdom,Utilities,Sep-18,BBB
+IID000000002137326,United Kingdom,Utilities,Oct-19,BBB
+IID000000002137341,United Kingdom,Utilities,Oct-15,AA
+IID000000002137341,United Kingdom,Utilities,Sep-16,AA
+IID000000002137341,United Kingdom,Utilities,Sep-17,AA
+IID000000002137341,United Kingdom,Utilities,Sep-18,AA
+IID000000002137341,United Kingdom,Utilities,Oct-19,AA
+IID000000002140364,France,Health Care Equipment & Supplies,Oct-17,BB
+IID000000002140364,France,Health Care Equipment & Supplies,Nov-18,BB
+IID000000002140364,France,Health Care Equipment & Supplies,Mar-19,BBB
+IID000000002140371,United Kingdom,Integrated Oil & Gas,Aug-15,BB
+IID000000002140371,United Kingdom,Integrated Oil & Gas,Aug-16,BB
+IID000000002140371,United Kingdom,Integrated Oil & Gas,Jul-17,BB
+IID000000002140371,United Kingdom,Integrated Oil & Gas,Aug-18,BBB
+IID000000002140371,United Kingdom,Integrated Oil & Gas,Aug-19,BBB
+IID000000002140381,United Kingdom,Aerospace & Defense,Dec-15,BBB
+IID000000002140381,United Kingdom,Aerospace & Defense,Nov-16,BBB
+IID000000002140381,United Kingdom,Aerospace & Defense,Dec-17,A
+IID000000002140381,United Kingdom,Aerospace & Defense,Dec-18,A
+IID000000002140381,United Kingdom,Aerospace & Defense,Oct-19,AA
+IID000000002140405,Switzerland,Professional Services,Aug-16,AA
+IID000000002140405,Switzerland,Professional Services,Mar-17,AA
+IID000000002140405,Switzerland,Professional Services,Apr-18,AA
+IID000000002140405,Switzerland,Professional Services,Mar-19,AA
+IID000000002140405,Switzerland,Professional Services,Jan-20,AA
+IID000000002140423,Germany,Construction & Engineering,Jul-16,AA
+IID000000002140423,Germany,Construction & Engineering,May-17,AA
+IID000000002140423,Germany,Construction & Engineering,May-18,AA
+IID000000002140423,Germany,Construction & Engineering,Aug-19,AA
+IID000000002140428,Germany,"Textiles, Apparel & Luxury Goods",Jul-18,AAA
+IID000000002140428,Germany,"Textiles, Apparel & Luxury Goods",Sep-19,AAA
+IID000000002140445,Finland,Utilities,Nov-15,A
+IID000000002140445,Finland,Utilities,Nov-16,A
+IID000000002140445,Finland,Utilities,Nov-17,A
+IID000000002140445,Finland,Utilities,Nov-18,A
+IID000000002140445,Finland,Utilities,Jul-19,A
+IID000000002140450,United Kingdom,Utilities,Aug-15,A
+IID000000002140450,United Kingdom,Utilities,Jul-16,A
+IID000000002140450,United Kingdom,Utilities,Jul-17,A
+IID000000002140450,United Kingdom,Utilities,Jul-18,A
+IID000000002140450,United Kingdom,Utilities,Sep-19,AA
+IID000000002140458,Germany,"Textiles, Apparel & Luxury Goods",Sep-15,AAA
+IID000000002140458,Germany,"Textiles, Apparel & Luxury Goods",Sep-16,AAA
+IID000000002140458,Germany,"Textiles, Apparel & Luxury Goods",Aug-17,AAA
+IID000000002140458,Germany,"Textiles, Apparel & Luxury Goods",Aug-18,AAA
+IID000000002140458,Germany,"Textiles, Apparel & Luxury Goods",Jul-19,AAA
+IID000000002140464,Germany,Industrial Machinery,Jan-16,A
+IID000000002140464,Germany,Industrial Machinery,Feb-17,AA
+IID000000002140464,Germany,Industrial Machinery,Feb-18,A
+IID000000002140464,Germany,Industrial Machinery,Feb-19,A
+IID000000002140464,Germany,Industrial Machinery,Feb-20,A
+IID000000002142057,Denmark,Health Care Equipment & Supplies,Dec-15,AA
+IID000000002142057,Denmark,Health Care Equipment & Supplies,Dec-16,AA
+IID000000002142057,Denmark,Health Care Equipment & Supplies,Dec-17,AA
+IID000000002142057,Denmark,Health Care Equipment & Supplies,Dec-18,AAA
+IID000000002142057,Denmark,Health Care Equipment & Supplies,Apr-19,AA
+IID000000002142971,United Kingdom,Media & Entertainment,Jun-15,AA
+IID000000002142971,United Kingdom,Media & Entertainment,May-16,AAA
+IID000000002142971,United Kingdom,Media & Entertainment,May-17,AAA
+IID000000002142971,United Kingdom,Media & Entertainment,Apr-18,AAA
+IID000000002142971,United Kingdom,Media & Entertainment,Jul-19,AAA
+IID000000002142979,Spain,Biotechnology,Oct-15,BBB
+IID000000002142979,Spain,Biotechnology,Oct-16,BBB
+IID000000002142979,Spain,Biotechnology,Oct-17,BBB
+IID000000002142979,Spain,Biotechnology,Nov-18,BBB
+IID000000002142979,Spain,Biotechnology,Aug-19,BBB
+IID000000002143266,Switzerland,Construction Materials,May-15,AA
+IID000000002143266,Switzerland,Construction Materials,May-16,A
+IID000000002143266,Switzerland,Construction Materials,May-17,A
+IID000000002143266,Switzerland,Construction Materials,May-18,BBB
+IID000000002143266,Switzerland,Construction Materials,Aug-19,BBB
+IID000000002143317,France,Media & Entertainment,Mar-15,AA
+IID000000002143317,France,Media & Entertainment,Mar-16,AA
+IID000000002143317,France,Media & Entertainment,Mar-17,AA
+IID000000002143317,France,Media & Entertainment,Mar-18,AAA
+IID000000002143317,France,Media & Entertainment,Apr-19,AAA
+IID000000002143351,United Kingdom,Retail - Consumer Discretionary,Apr-15,AAA
+IID000000002143351,United Kingdom,Retail - Consumer Discretionary,May-16,AAA
+IID000000002143351,United Kingdom,Retail - Consumer Discretionary,Feb-17,AAA
+IID000000002143351,United Kingdom,Retail - Consumer Discretionary,Mar-18,AAA
+IID000000002143351,United Kingdom,Retail - Consumer Discretionary,Jul-19,AAA
+IID000000002144164,United Kingdom,Retail - Food & Staples,Aug-15,AA
+IID000000002144164,United Kingdom,Retail - Food & Staples,Aug-16,AA
+IID000000002144164,United Kingdom,Retail - Food & Staples,Sep-17,AA
+IID000000002144164,United Kingdom,Retail - Food & Staples,Sep-18,AA
+IID000000002144164,United Kingdom,Retail - Food & Staples,Nov-19,AA
+IID000000002144233,Netherlands,Specialty Chemicals,Feb-16,AA
+IID000000002144233,Netherlands,Specialty Chemicals,Feb-17,AA
+IID000000002144233,Netherlands,Specialty Chemicals,Apr-18,AA
+IID000000002144233,Netherlands,Specialty Chemicals,Nov-18,AAA
+IID000000002144233,Netherlands,Specialty Chemicals,Jun-19,AAA
+IID000000002144259,United Kingdom,Utilities,Aug-15,AA
+IID000000002144259,United Kingdom,Utilities,Jul-16,AA
+IID000000002144259,United Kingdom,Utilities,Aug-17,AAA
+IID000000002144259,United Kingdom,Utilities,Sep-18,AAA
+IID000000002144259,United Kingdom,Utilities,Nov-19,AAA
+IID000000002144268,Sweden,Industrial Machinery,Jan-15,AA
+IID000000002144268,Sweden,Industrial Machinery,Jan-16,AA
+IID000000002144268,Sweden,Industrial Machinery,Feb-17,AA
+IID000000002144268,Sweden,Industrial Machinery,Mar-18,AA
+IID000000002144268,Sweden,Industrial Machinery,Mar-19,AA
+IID000000002144380,Norway,Food Products,Nov-15,AAA
+IID000000002144380,Norway,Food Products,Nov-16,AAA
+IID000000002144380,Norway,Food Products,Nov-17,AAA
+IID000000002144380,Norway,Food Products,Dec-18,AAA
+IID000000002144380,Norway,Food Products,Nov-19,AAA
+IID000000002144457,Switzerland,Pharmaceuticals,Sep-16,A
+IID000000002144457,Switzerland,Pharmaceuticals,Jul-17,A
+IID000000002144457,Switzerland,Pharmaceuticals,Mar-18,BBB
+IID000000002144457,Switzerland,Pharmaceuticals,Oct-18,BBB
+IID000000002144457,Switzerland,Pharmaceuticals,Apr-19,BBB
+IID000000002144506,Austria,Utilities,Jan-19,AA
+IID000000002144506,Austria,Utilities,Jan-20,AA
+IID000000002144603,Netherlands,Health Care Equipment & Supplies,Sep-15,AA
+IID000000002144603,Netherlands,Health Care Equipment & Supplies,Sep-16,AA
+IID000000002144603,Netherlands,Health Care Equipment & Supplies,Dec-17,A
+IID000000002144603,Netherlands,Health Care Equipment & Supplies,Dec-18,A
+IID000000002144603,Netherlands,Health Care Equipment & Supplies,Jun-19,A
+IID000000002144644,Sweden,Construction & Farm Machinery & Heavy Trucks,Mar-15,AA
+IID000000002144644,Sweden,Construction & Farm Machinery & Heavy Trucks,Mar-16,AA
+IID000000002144644,Sweden,Construction & Farm Machinery & Heavy Trucks,May-17,AA
+IID000000002144644,Sweden,Construction & Farm Machinery & Heavy Trucks,May-18,AA
+IID000000002144644,Sweden,Construction & Farm Machinery & Heavy Trucks,Sep-19,AA
+IID000000002144864,Netherlands,Professional Services,Aug-15,BBB
+IID000000002144864,Netherlands,Professional Services,Aug-16,BBB
+IID000000002144864,Netherlands,Professional Services,Mar-17,AA
+IID000000002144864,Netherlands,Professional Services,Mar-18,AA
+IID000000002144864,Netherlands,Professional Services,Apr-19,AA
+IID000000002145155,France,Integrated Oil & Gas,Aug-15,BBB
+IID000000002145155,France,Integrated Oil & Gas,Aug-16,A
+IID000000002145155,France,Integrated Oil & Gas,Aug-17,A
+IID000000002145155,France,Integrated Oil & Gas,Aug-18,A
+IID000000002145155,France,Integrated Oil & Gas,Oct-19,A
+IID000000002145368,Spain,Utilities,Nov-15,AAA
+IID000000002145368,Spain,Utilities,Nov-16,AAA
+IID000000002145368,Spain,Utilities,Dec-17,AAA
+IID000000002145368,Spain,Utilities,Dec-18,AAA
+IID000000002145368,Spain,Utilities,Oct-19,AAA
+IID000000002145455,United Kingdom,Professional Services,Nov-16,AAA
+IID000000002145455,United Kingdom,Professional Services,Oct-17,AAA
+IID000000002145455,United Kingdom,Professional Services,Dec-18,AAA
+IID000000002145455,United Kingdom,Professional Services,Jul-19,AAA
+IID000000002146213,United Kingdom,Retail - Consumer Discretionary,Jun-15,AA
+IID000000002146213,United Kingdom,Retail - Consumer Discretionary,May-16,AA
+IID000000002146213,United Kingdom,Retail - Consumer Discretionary,Feb-17,A
+IID000000002146213,United Kingdom,Retail - Consumer Discretionary,Feb-18,A
+IID000000002146213,United Kingdom,Retail - Consumer Discretionary,Apr-19,A
+IID000000002147336,Germany,Specialty Chemicals,Feb-16,A
+IID000000002147336,Germany,Specialty Chemicals,Feb-17,A
+IID000000002147336,Germany,Specialty Chemicals,Feb-18,A
+IID000000002147336,Germany,Specialty Chemicals,Mar-19,A
+IID000000002147336,Germany,Specialty Chemicals,Feb-20,A
+IID000000002148722,Switzerland,Food Products,Nov-15,A
+IID000000002148722,Switzerland,Food Products,Nov-16,AA
+IID000000002148722,Switzerland,Food Products,Nov-17,AA
+IID000000002148722,Switzerland,Food Products,Dec-18,AA
+IID000000002148722,Switzerland,Food Products,Dec-19,AA
+IID000000002148771,Germany,Household & Personal Products,Jun-15,BBB
+IID000000002148771,Germany,Household & Personal Products,Jun-16,A
+IID000000002148771,Germany,Household & Personal Products,Jul-17,AA
+IID000000002148771,Germany,Household & Personal Products,Jul-18,AA
+IID000000002148771,Germany,Household & Personal Products,Jun-19,AA
+IID000000002148927,Finland,Auto Components,May-15,A
+IID000000002148927,Finland,Auto Components,May-16,A
+IID000000002148927,Finland,Auto Components,May-17,A
+IID000000002148927,Finland,Auto Components,May-18,A
+IID000000002148927,Finland,Auto Components,Aug-19,A
+IID000000002148930,Portugal,Utilities,Nov-15,AAA
+IID000000002148930,Portugal,Utilities,Nov-16,AAA
+IID000000002148930,Portugal,Utilities,Nov-17,AAA
+IID000000002148930,Portugal,Utilities,Nov-18,AAA
+IID000000002148930,Portugal,Utilities,Aug-19,AAA
+IID000000002148933,Germany,Automobiles,Jul-16,AA
+IID000000002148933,Germany,Automobiles,Jul-17,AA
+IID000000002148933,Germany,Automobiles,Aug-17,A
+IID000000002148933,Germany,Automobiles,Aug-18,A
+IID000000002148933,Germany,Automobiles,Aug-19,A
+IID000000002148934,Germany,Auto Components,Apr-17,BB
+IID000000002148934,Germany,Auto Components,Oct-17,BB
+IID000000002148934,Germany,Auto Components,May-18,BBB
+IID000000002148934,Germany,Auto Components,Aug-19,BBB
+IID000000002148934,Germany,Auto Components,Jan-20,BBB
+IID000000002148935,Germany,Construction Materials,May-15,AAA
+IID000000002148935,Germany,Construction Materials,May-16,AA
+IID000000002148935,Germany,Construction Materials,May-17,AA
+IID000000002148935,Germany,Construction Materials,May-18,AA
+IID000000002148935,Germany,Construction Materials,Sep-19,AA
+IID000000002149686,Italy,Electrical Equipment,Mar-15,BB
+IID000000002149686,Italy,Electrical Equipment,Apr-16,BBB
+IID000000002149686,Italy,Electrical Equipment,Apr-17,BBB
+IID000000002149686,Italy,Electrical Equipment,Apr-18,BBB
+IID000000002149686,Italy,Electrical Equipment,Nov-19,A
+IID000000002149764,Italy,Transportation Infrastructure,Sep-15,A
+IID000000002149764,Italy,Transportation Infrastructure,Oct-16,A
+IID000000002149764,Italy,Transportation Infrastructure,Oct-17,A
+IID000000002149764,Italy,Transportation Infrastructure,Aug-18,BB
+IID000000002149764,Italy,Transportation Infrastructure,Aug-19,BB
+IID000000002149768,United Kingdom,Retail - Food & Staples,Aug-15,AAA
+IID000000002149768,United Kingdom,Retail - Food & Staples,Aug-16,AAA
+IID000000002149768,United Kingdom,Retail - Food & Staples,Sep-17,AAA
+IID000000002149768,United Kingdom,Retail - Food & Staples,Oct-18,AAA
+IID000000002149768,United Kingdom,Retail - Food & Staples,Nov-19,AAA
+IID000000002150860,Denmark,Air Freight & Logistics,Mar-15,A
+IID000000002150860,Denmark,Air Freight & Logistics,Mar-16,A
+IID000000002150860,Denmark,Air Freight & Logistics,May-17,A
+IID000000002150860,Denmark,Air Freight & Logistics,Oct-18,A
+IID000000002150860,Denmark,Air Freight & Logistics,Jul-19,A
+IID000000002150894,Spain,Utilities,Oct-15,AA
+IID000000002150894,Spain,Utilities,Sep-16,AA
+IID000000002150894,Spain,Utilities,Oct-17,AAA
+IID000000002150894,Spain,Utilities,Oct-18,AAA
+IID000000002150894,Spain,Utilities,Nov-19,AAA
+IID000000002150938,Sweden,Commercial Services & Supplies,Mar-15,B
+IID000000002150938,Sweden,Commercial Services & Supplies,Mar-16,B
+IID000000002150938,Sweden,Commercial Services & Supplies,Feb-17,B
+IID000000002150938,Sweden,Commercial Services & Supplies,Mar-18,BB
+IID000000002150938,Sweden,Commercial Services & Supplies,Jul-19,BB
+IID000000002151050,Switzerland,Specialty Chemicals,Feb-16,BB
+IID000000002151050,Switzerland,Specialty Chemicals,Feb-17,BB
+IID000000002151050,Switzerland,Specialty Chemicals,Feb-18,BB
+IID000000002151050,Switzerland,Specialty Chemicals,Feb-19,BB
+IID000000002151050,Switzerland,Specialty Chemicals,Feb-20,BB
+IID000000002151160,Italy,Utilities,Nov-15,A
+IID000000002151160,Italy,Utilities,Aug-16,AA
+IID000000002151160,Italy,Utilities,Jul-17,AA
+IID000000002151160,Italy,Utilities,Aug-18,AA
+IID000000002151160,Italy,Utilities,Nov-19,AAA
+IID000000002151173,Sweden,Diversified Financials,Feb-15,A
+IID000000002151173,Sweden,Diversified Financials,Feb-16,BBB
+IID000000002151173,Sweden,Diversified Financials,Feb-17,BBB
+IID000000002151173,Sweden,Diversified Financials,Feb-18,A
+IID000000002151173,Sweden,Diversified Financials,Jul-19,A
+IID000000002151502,Hungary,Pharmaceuticals,Sep-15,BB
+IID000000002151502,Hungary,Pharmaceuticals,Aug-16,BB
+IID000000002151502,Hungary,Pharmaceuticals,Sep-17,BB
+IID000000002151502,Hungary,Pharmaceuticals,Sep-18,BB
+IID000000002151502,Hungary,Pharmaceuticals,Jul-19,BB
+IID000000002152061,United Kingdom,Specialty Chemicals,Mar-15,AAA
+IID000000002152061,United Kingdom,Specialty Chemicals,Feb-16,AAA
+IID000000002152061,United Kingdom,Specialty Chemicals,Mar-17,AAA
+IID000000002152061,United Kingdom,Specialty Chemicals,May-18,AAA
+IID000000002152061,United Kingdom,Specialty Chemicals,Oct-19,AAA
+IID000000002152063,Italy,Auto Components,Apr-18,A
+IID000000002152063,Italy,Auto Components,Sep-19,A
+IID000000002152393,United Kingdom,Software & Services,May-16,BBB
+IID000000002152393,United Kingdom,Software & Services,Mar-17,BBB
+IID000000002152393,United Kingdom,Software & Services,May-17,BBB
+IID000000002152393,United Kingdom,Software & Services,May-18,BBB
+IID000000002152393,United Kingdom,Software & Services,Sep-19,A
+IID000000002152916,Denmark,Specialty Chemicals,Mar-15,AAA
+IID000000002152916,Denmark,Specialty Chemicals,Feb-16,AAA
+IID000000002152916,Denmark,Specialty Chemicals,Feb-17,AAA
+IID000000002152916,Denmark,Specialty Chemicals,Jun-18,AAA
+IID000000002152916,Denmark,Specialty Chemicals,Jun-19,AAA
+IID000000002153232,Germany,Automobiles,Oct-15,CCC
+IID000000002153232,Germany,Automobiles,Jul-16,CCC
+IID000000002153232,Germany,Automobiles,Jul-17,CCC
+IID000000002153232,Germany,Automobiles,Aug-18,CCC
+IID000000002153232,Germany,Automobiles,Sep-19,CCC
+IID000000002153816,Switzerland,Professional Services,Aug-16,AA
+IID000000002153816,Switzerland,Professional Services,Mar-17,AA
+IID000000002153816,Switzerland,Professional Services,Oct-17,AA
+IID000000002153816,Switzerland,Professional Services,Oct-18,AA
+IID000000002153816,Switzerland,Professional Services,Nov-19,AA
+IID000000002153893,Norway,Media & Entertainment,Apr-15,A
+IID000000002153893,Norway,Media & Entertainment,Feb-16,A
+IID000000002153893,Norway,Media & Entertainment,Mar-17,A
+IID000000002153893,Norway,Media & Entertainment,Mar-18,AA
+IID000000002153893,Norway,Media & Entertainment,Sep-19,AA
+IID000000002153910,Norway,Telecommunication Services,Feb-16,AAA
+IID000000002153910,Norway,Telecommunication Services,Feb-17,AAA
+IID000000002153910,Norway,Telecommunication Services,Feb-18,AAA
+IID000000002153910,Norway,Telecommunication Services,Feb-19,AAA
+IID000000002153910,Norway,Telecommunication Services,Feb-20,AAA
+IID000000002153923,United Kingdom,Retail - Food & Staples,Sep-15,A
+IID000000002153923,United Kingdom,Retail - Food & Staples,Sep-16,AA
+IID000000002153923,United Kingdom,Retail - Food & Staples,Aug-17,AA
+IID000000002153923,United Kingdom,Retail - Food & Staples,Jun-18,A
+IID000000002153923,United Kingdom,Retail - Food & Staples,Sep-19,AA
+IID000000002153954,Switzerland,"Electronic Equipment, Instruments & Components",Apr-16,AA
+IID000000002153954,Switzerland,"Electronic Equipment, Instruments & Components",Apr-17,AA
+IID000000002153954,Switzerland,"Electronic Equipment, Instruments & Components",May-18,AA
+IID000000002153954,Switzerland,"Electronic Equipment, Instruments & Components",Mar-19,AA
+IID000000002153954,Switzerland,"Electronic Equipment, Instruments & Components",Feb-20,A
+IID000000002155484,Spain,Construction & Engineering,Apr-15,BB
+IID000000002155484,Spain,Construction & Engineering,Apr-16,BB
+IID000000002155484,Spain,Construction & Engineering,Jul-17,BBB
+IID000000002155484,Spain,Construction & Engineering,Aug-18,A
+IID000000002155484,Spain,Construction & Engineering,Nov-19,A
+IID000000002155810,Netherlands,Semiconductors & Semiconductor Equipment,Jan-16,AAA
+IID000000002155810,Netherlands,Semiconductors & Semiconductor Equipment,Jan-17,AAA
+IID000000002155810,Netherlands,Semiconductors & Semiconductor Equipment,Jan-18,AA
+IID000000002155810,Netherlands,Semiconductors & Semiconductor Equipment,Mar-19,AAA
+IID000000002155810,Netherlands,Semiconductors & Semiconductor Equipment,Feb-20,AAA
+IID000000002156536,Netherlands,Specialty Chemicals,Mar-15,AAA
+IID000000002156536,Netherlands,Specialty Chemicals,Mar-16,AAA
+IID000000002156536,Netherlands,Specialty Chemicals,May-17,AAA
+IID000000002156536,Netherlands,Specialty Chemicals,May-18,AAA
+IID000000002156536,Netherlands,Specialty Chemicals,May-19,AAA
+IID000000002156720,Sweden,Industrial Machinery,Jan-15,AA
+IID000000002156720,Sweden,Industrial Machinery,Jan-16,AA
+IID000000002156720,Sweden,Industrial Machinery,Feb-17,AA
+IID000000002156720,Sweden,Industrial Machinery,Mar-18,AA
+IID000000002156720,Sweden,Industrial Machinery,Aug-19,AA
+IID000000002157430,Austria,Industrial Machinery,Feb-17,BBB
+IID000000002157430,Austria,Industrial Machinery,Apr-17,A
+IID000000002157430,Austria,Industrial Machinery,Mar-18,A
+IID000000002157430,Austria,Industrial Machinery,Mar-19,AA
+IID000000002157430,Austria,Industrial Machinery,Feb-20,AA
+IID000000002157540,United Kingdom,Metals and Mining - Non-Precious Metals,Nov-15,A
+IID000000002157540,United Kingdom,Metals and Mining - Non-Precious Metals,Dec-16,A
+IID000000002157540,United Kingdom,Metals and Mining - Non-Precious Metals,Dec-17,A
+IID000000002157540,United Kingdom,Metals and Mining - Non-Precious Metals,Dec-18,A
+IID000000002157540,United Kingdom,Metals and Mining - Non-Precious Metals,Dec-19,A
+IID000000002157753,Luxembourg,Steel,Nov-15,B
+IID000000002157753,Luxembourg,Steel,Nov-16,B
+IID000000002157753,Luxembourg,Steel,Nov-17,B
+IID000000002157753,Luxembourg,Steel,Nov-18,B
+IID000000002157753,Luxembourg,Steel,Dec-19,BB
+IID000000002158011,United Kingdom,Trading Companies & Distributors,May-15,A
+IID000000002158011,United Kingdom,Trading Companies & Distributors,Jun-16,A
+IID000000002158011,United Kingdom,Trading Companies & Distributors,Jun-17,A
+IID000000002158011,United Kingdom,Trading Companies & Distributors,Jun-18,A
+IID000000002158011,United Kingdom,Trading Companies & Distributors,Oct-19,A
+IID000000002158166,United Kingdom,Pharmaceuticals,Sep-15,AA
+IID000000002158166,United Kingdom,Pharmaceuticals,Sep-16,AA
+IID000000002158166,United Kingdom,Pharmaceuticals,Sep-17,AA
+IID000000002158166,United Kingdom,Pharmaceuticals,Oct-18,AA
+IID000000002158166,United Kingdom,Pharmaceuticals,Nov-19,AA
+IID000000002158257,Sweden,Industrial Machinery,Jan-16,AA
+IID000000002158257,Sweden,Industrial Machinery,Feb-17,AA
+IID000000002158257,Sweden,Industrial Machinery,Sep-17,AA
+IID000000002158257,Sweden,Industrial Machinery,Mar-18,AA
+IID000000002158257,Sweden,Industrial Machinery,Apr-19,AA
+IID000000002158274,France,Software & Services,May-15,AA
+IID000000002158274,France,Software & Services,May-16,AA
+IID000000002158274,France,Software & Services,May-17,AAA
+IID000000002158274,France,Software & Services,May-18,AAA
+IID000000002158274,France,Software & Services,Aug-19,AAA
+IID000000002158501,United Kingdom,Software & Services,May-15,BBB
+IID000000002158501,United Kingdom,Software & Services,Jul-16,BBB
+IID000000002158501,United Kingdom,Software & Services,Jul-17,A
+IID000000002158501,United Kingdom,Software & Services,Jul-18,A
+IID000000002158501,United Kingdom,Software & Services,Sep-19,BBB
+IID000000002158653,Germany,Diversified Chemicals,Jun-15,AA
+IID000000002158653,Germany,Diversified Chemicals,Jun-16,AA
+IID000000002158653,Germany,Diversified Chemicals,Aug-17,AA
+IID000000002158653,Germany,Diversified Chemicals,Aug-18,AA
+IID000000002158653,Germany,Diversified Chemicals,Aug-19,AA
+IID000000002159897,France,Media & Entertainment,Oct-15,BBB
+IID000000002159897,France,Media & Entertainment,Sep-16,BBB
+IID000000002159897,France,Media & Entertainment,Sep-17,BB
+IID000000002159897,France,Media & Entertainment,Sep-18,B
+IID000000002159897,France,Media & Entertainment,Dec-19,B
+IID000000002160167,United Kingdom,Tobacco,Dec-15,BBB
+IID000000002160167,United Kingdom,Tobacco,Oct-16,BBB
+IID000000002160167,United Kingdom,Tobacco,Nov-17,A
+IID000000002160167,United Kingdom,Tobacco,Nov-18,A
+IID000000002160167,United Kingdom,Tobacco,Nov-19,BBB
+IID000000002160173,United Kingdom,Real Estate Management & Services,Aug-17,AAA
+IID000000002160173,United Kingdom,Real Estate Management & Services,Aug-18,AAA
+IID000000002160173,United Kingdom,Real Estate Management & Services,Oct-19,AAA
+IID000000002160303,United Kingdom,"Textiles, Apparel & Luxury Goods",Sep-15,A
+IID000000002160303,United Kingdom,"Textiles, Apparel & Luxury Goods",Sep-16,AA
+IID000000002160303,United Kingdom,"Textiles, Apparel & Luxury Goods",Aug-17,AA
+IID000000002160303,United Kingdom,"Textiles, Apparel & Luxury Goods",Aug-18,AA
+IID000000002160303,United Kingdom,"Textiles, Apparel & Luxury Goods",Sep-19,AAA
+IID000000002161102,Denmark,Beverages,Jun-15,AA
+IID000000002161102,Denmark,Beverages,Jun-16,AA
+IID000000002161102,Denmark,Beverages,Jun-17,AA
+IID000000002161102,Denmark,Beverages,Jul-18,AA
+IID000000002161102,Denmark,Beverages,Dec-19,AA
+IID000000002161115,United Kingdom,Hotels & Travel,Sep-15,CCC
+IID000000002161115,United Kingdom,Hotels & Travel,Aug-16,CCC
+IID000000002161115,United Kingdom,Hotels & Travel,Apr-17,CCC
+IID000000002161115,United Kingdom,Hotels & Travel,May-18,CCC
+IID000000002161115,United Kingdom,Hotels & Travel,Sep-19,CCC
+IID000000002162171,Switzerland,Specialty Chemicals,Mar-16,AA
+IID000000002162171,Switzerland,Specialty Chemicals,Mar-17,AA
+IID000000002162171,Switzerland,Specialty Chemicals,Feb-18,AA
+IID000000002162171,Switzerland,Specialty Chemicals,Feb-19,AA
+IID000000002162171,Switzerland,Specialty Chemicals,Feb-20,AA
+IID000000002162545,Switzerland,"Textiles, Apparel & Luxury Goods",Sep-15,A
+IID000000002162545,Switzerland,"Textiles, Apparel & Luxury Goods",Sep-16,AA
+IID000000002162545,Switzerland,"Textiles, Apparel & Luxury Goods",Aug-17,AA
+IID000000002162545,Switzerland,"Textiles, Apparel & Luxury Goods",Aug-18,AA
+IID000000002162545,Switzerland,"Textiles, Apparel & Luxury Goods",Nov-19,AA
+IID000000002162627,United Kingdom,Restaurants,Sep-15,BBB
+IID000000002162627,United Kingdom,Restaurants,Sep-16,BBB
+IID000000002162627,United Kingdom,Restaurants,Jun-17,A
+IID000000002162627,United Kingdom,Restaurants,Jun-18,A
+IID000000002162627,United Kingdom,Restaurants,Mar-19,A
+IID000000002163125,United Kingdom,Specialty Chemicals,Feb-15,AA
+IID000000002163125,United Kingdom,Specialty Chemicals,Mar-16,AAA
+IID000000002163125,United Kingdom,Specialty Chemicals,Feb-17,AAA
+IID000000002163125,United Kingdom,Specialty Chemicals,Apr-18,AAA
+IID000000002163125,United Kingdom,Specialty Chemicals,Oct-19,AAA
+IID000000002163566,Germany,Automobiles,Jul-16,A
+IID000000002163566,Germany,Automobiles,Jul-17,A
+IID000000002163566,Germany,Automobiles,Aug-17,BBB
+IID000000002163566,Germany,Automobiles,Aug-18,BBB
+IID000000002163566,Germany,Automobiles,Jun-19,BBB
+IID000000002163947,Germany,Air Freight & Logistics,Oct-15,AAA
+IID000000002163947,Germany,Air Freight & Logistics,Sep-16,AAA
+IID000000002163947,Germany,Air Freight & Logistics,Sep-17,AAA
+IID000000002163947,Germany,Air Freight & Logistics,Sep-18,AAA
+IID000000002163947,Germany,Air Freight & Logistics,Aug-19,AA
+IID000000002163952,Germany,Telecommunication Services,Feb-16,BBB
+IID000000002163952,Germany,Telecommunication Services,Feb-17,BBB
+IID000000002163952,Germany,Telecommunication Services,Feb-18,BBB
+IID000000002163952,Germany,Telecommunication Services,Feb-19,BBB
+IID000000002163952,Germany,Telecommunication Services,Feb-20,BBB
+IID000000002164477,Switzerland,Retail - Consumer Discretionary,May-15,BBB
+IID000000002164477,Switzerland,Retail - Consumer Discretionary,Apr-16,BBB
+IID000000002164477,Switzerland,Retail - Consumer Discretionary,Feb-17,BBB
+IID000000002164477,Switzerland,Retail - Consumer Discretionary,Feb-18,BBB
+IID000000002164477,Switzerland,Retail - Consumer Discretionary,Jun-19,A
+IID000000002164704,Italy,Integrated Oil & Gas,Aug-15,BBB
+IID000000002164704,Italy,Integrated Oil & Gas,Aug-16,BBB
+IID000000002164704,Italy,Integrated Oil & Gas,Jul-17,BBB
+IID000000002164704,Italy,Integrated Oil & Gas,Aug-18,BBB
+IID000000002164704,Italy,Integrated Oil & Gas,Nov-19,A
+IID000000002165080,Sweden,Household Durables,Dec-15,A
+IID000000002165080,Sweden,Household Durables,Dec-16,A
+IID000000002165080,Sweden,Household Durables,Aug-17,A
+IID000000002165080,Sweden,Household Durables,Aug-18,AA
+IID000000002165080,Sweden,Household Durables,Jun-19,AA
+IID000000002165151,Finland,Telecommunication Services,Feb-16,A
+IID000000002165151,Finland,Telecommunication Services,Feb-17,A
+IID000000002165151,Finland,Telecommunication Services,Feb-18,A
+IID000000002165151,Finland,Telecommunication Services,Feb-19,A
+IID000000002165151,Finland,Telecommunication Services,Feb-20,AA
+IID000000002165914,Ireland,Professional Services,Aug-15,BBB
+IID000000002165914,Ireland,Professional Services,Aug-16,BBB
+IID000000002165914,Ireland,Professional Services,Apr-17,A
+IID000000002165914,Ireland,Professional Services,Apr-18,A
+IID000000002165914,Ireland,Professional Services,Oct-19,AA
+IID000000002166466,Italy,Aerospace & Defense,Dec-15,BB
+IID000000002166466,Italy,Aerospace & Defense,Nov-16,BB
+IID000000002166466,Italy,Aerospace & Defense,Dec-17,BB
+IID000000002166466,Italy,Aerospace & Defense,Dec-18,BBB
+IID000000002166466,Italy,Aerospace & Defense,Sep-19,BBB
+IID000000002166952,Germany,Transportation Infrastructure,Sep-15,AA
+IID000000002166952,Germany,Transportation Infrastructure,Oct-16,AA
+IID000000002166952,Germany,Transportation Infrastructure,Oct-17,AA
+IID000000002166952,Germany,Transportation Infrastructure,Oct-18,AA
+IID000000002166952,Germany,Transportation Infrastructure,Sep-19,AA
+IID000000002166989,Germany,Health Care Providers & Services,May-15,B
+IID000000002166989,Germany,Health Care Providers & Services,May-16,B
+IID000000002166989,Germany,Health Care Providers & Services,May-17,BB
+IID000000002166989,Germany,Health Care Providers & Services,Jun-18,BB
+IID000000002166989,Germany,Health Care Providers & Services,Jun-19,BB
+IID000000002167172,United Kingdom,Commercial Services & Supplies,Dec-15,B
+IID000000002167172,United Kingdom,Commercial Services & Supplies,Nov-16,B
+IID000000002167172,United Kingdom,Commercial Services & Supplies,Feb-17,B
+IID000000002167172,United Kingdom,Commercial Services & Supplies,Mar-18,B
+IID000000002167172,United Kingdom,Commercial Services & Supplies,Mar-19,B
+IID000000002167383,Portugal,Integrated Oil & Gas,Aug-15,AA
+IID000000002167383,Portugal,Integrated Oil & Gas,Aug-16,AA
+IID000000002167383,Portugal,Integrated Oil & Gas,Jul-17,AA
+IID000000002167383,Portugal,Integrated Oil & Gas,Jul-18,AAA
+IID000000002167383,Portugal,Integrated Oil & Gas,Oct-19,AAA
+IID000000002167778,Switzerland,Specialty Chemicals,Feb-16,AA
+IID000000002167778,Switzerland,Specialty Chemicals,Feb-17,AA
+IID000000002167778,Switzerland,Specialty Chemicals,Oct-17,AAA
+IID000000002167778,Switzerland,Specialty Chemicals,Oct-18,AAA
+IID000000002167778,Switzerland,Specialty Chemicals,Jun-19,AAA
+IID000000002167800,United Kingdom,Pharmaceuticals,Sep-15,BBB
+IID000000002167800,United Kingdom,Pharmaceuticals,Sep-16,BBB
+IID000000002167800,United Kingdom,Pharmaceuticals,Jul-17,BBB
+IID000000002167800,United Kingdom,Pharmaceuticals,Sep-18,BBB
+IID000000002167800,United Kingdom,Pharmaceuticals,Sep-19,A
+IID000000002168620,Denmark,Pharmaceuticals,Oct-16,A
+IID000000002168620,Denmark,Pharmaceuticals,Oct-17,A
+IID000000002168620,Denmark,Pharmaceuticals,Nov-18,A
+IID000000002168620,Denmark,Pharmaceuticals,Jun-19,A
+IID000000002168831,Sweden,Retail - Food & Staples,Aug-15,AA
+IID000000002168831,Sweden,Retail - Food & Staples,Sep-16,AA
+IID000000002168831,Sweden,Retail - Food & Staples,Aug-17,AA
+IID000000002168831,Sweden,Retail - Food & Staples,Aug-18,AA
+IID000000002168831,Sweden,Retail - Food & Staples,Aug-19,AA
+IID000000002168855,United Kingdom,"Electronic Equipment, Instruments & Components",Oct-15,BBB
+IID000000002168855,United Kingdom,"Electronic Equipment, Instruments & Components",Dec-16,BBB
+IID000000002168855,United Kingdom,"Electronic Equipment, Instruments & Components",Dec-17,BBB
+IID000000002168855,United Kingdom,"Electronic Equipment, Instruments & Components",Dec-18,BBB
+IID000000002168855,United Kingdom,"Electronic Equipment, Instruments & Components",Nov-19,BBB
+IID000000002168979,United Kingdom,Asset Management & Custody Banks,Apr-15,BB
+IID000000002168979,United Kingdom,Asset Management & Custody Banks,Apr-16,BB
+IID000000002168979,United Kingdom,Asset Management & Custody Banks,May-17,BB
+IID000000002168979,United Kingdom,Asset Management & Custody Banks,May-18,BB
+IID000000002168979,United Kingdom,Asset Management & Custody Banks,Oct-19,BB
+IID000000002169150,Netherlands,Beverages,Jun-15,A
+IID000000002169150,Netherlands,Beverages,Jun-16,A
+IID000000002169150,Netherlands,Beverages,Jun-17,A
+IID000000002169150,Netherlands,Beverages,Jul-18,A
+IID000000002169150,Netherlands,Beverages,Nov-19,A
+IID000000002169220,Germany,Household & Personal Products,Jul-15,AA
+IID000000002169220,Germany,Household & Personal Products,Jul-16,AA
+IID000000002169220,Germany,Household & Personal Products,Sep-17,AA
+IID000000002169220,Germany,Household & Personal Products,Jul-18,AA
+IID000000002169220,Germany,Household & Personal Products,Aug-19,AA
+IID000000002169765,Sweden,Household Durables,Dec-15,AA
+IID000000002169765,Sweden,Household Durables,Nov-16,AA
+IID000000002169765,Sweden,Household Durables,Aug-17,AA
+IID000000002169765,Sweden,Household Durables,Aug-18,AA
+IID000000002169765,Sweden,Household Durables,Jun-19,AA
+IID000000002170324,United Kingdom,Tobacco,Nov-15,BBB
+IID000000002170324,United Kingdom,Tobacco,Oct-16,BBB
+IID000000002170324,United Kingdom,Tobacco,Nov-17,BBB
+IID000000002170324,United Kingdom,Tobacco,Nov-18,A
+IID000000002170324,United Kingdom,Tobacco,Mar-19,A
+IID000000002170530,Sweden,Diversified Financials,Feb-16,BBB
+IID000000002170530,Sweden,Diversified Financials,Feb-17,BBB
+IID000000002170530,Sweden,Diversified Financials,Feb-18,BBB
+IID000000002170530,Sweden,Diversified Financials,Mar-19,BBB
+IID000000002170530,Sweden,Diversified Financials,Feb-20,BBB
+IID000000002170550,Germany,Semiconductors & Semiconductor Equipment,Nov-17,BBB
+IID000000002170550,Germany,Semiconductors & Semiconductor Equipment,Jan-18,BBB
+IID000000002170550,Germany,Semiconductors & Semiconductor Equipment,Feb-18,A
+IID000000002170550,Germany,Semiconductors & Semiconductor Equipment,Feb-19,AA
+IID000000002170550,Germany,Semiconductors & Semiconductor Equipment,Feb-20,AA
+IID000000002171081,United Kingdom,Professional Services,Aug-16,AA
+IID000000002171081,United Kingdom,Professional Services,Mar-17,AA
+IID000000002171081,United Kingdom,Professional Services,Apr-18,AA
+IID000000002171081,United Kingdom,Professional Services,Jul-18,AAA
+IID000000002171081,United Kingdom,Professional Services,Jul-19,AA
+IID000000002172765,Ireland,Building Products,Feb-16,A
+IID000000002172765,Ireland,Building Products,Feb-17,A
+IID000000002172765,Ireland,Building Products,Feb-18,A
+IID000000002172765,Ireland,Building Products,Apr-19,AA
+IID000000002172765,Ireland,Building Products,Sep-19,AA
+IID000000002172773,Sweden,Diversified Financials,Feb-16,A
+IID000000002172773,Sweden,Diversified Financials,Aug-16,AA
+IID000000002172773,Sweden,Diversified Financials,Feb-17,AA
+IID000000002172773,Sweden,Diversified Financials,Feb-18,AA
+IID000000002172773,Sweden,Diversified Financials,Jul-19,AA
+IID000000002172927,Finland,Industrial Machinery,Jan-15,A
+IID000000002172927,Finland,Industrial Machinery,Jan-16,A
+IID000000002172927,Finland,Industrial Machinery,Feb-17,A
+IID000000002172927,Finland,Industrial Machinery,Feb-18,A
+IID000000002172927,Finland,Industrial Machinery,Mar-19,BBB
+IID000000002172935,Netherlands,Retail - Food & Staples,Sep-15,BBB
+IID000000002172935,Netherlands,Retail - Food & Staples,Sep-16,A
+IID000000002172935,Netherlands,Retail - Food & Staples,Sep-17,A
+IID000000002172935,Netherlands,Retail - Food & Staples,Sep-18,A
+IID000000002172935,Netherlands,Retail - Food & Staples,Jul-19,A
+IID000000002172937,Netherlands,Telecommunication Services,Feb-16,AA
+IID000000002172937,Netherlands,Telecommunication Services,Feb-17,AA
+IID000000002172937,Netherlands,Telecommunication Services,Feb-18,AA
+IID000000002172937,Netherlands,Telecommunication Services,Feb-19,AA
+IID000000002172937,Netherlands,Telecommunication Services,Feb-20,AAA
+IID000000002172940,Netherlands,"Oil & Gas Refining, Marketing, Transportation & Storage",Oct-15,AAA
+IID000000002172940,Netherlands,"Oil & Gas Refining, Marketing, Transportation & Storage",Oct-16,AAA
+IID000000002172940,Netherlands,"Oil & Gas Refining, Marketing, Transportation & Storage",Oct-17,AAA
+IID000000002172940,Netherlands,"Oil & Gas Refining, Marketing, Transportation & Storage",Mar-18,AAA
+IID000000002172940,Netherlands,"Oil & Gas Refining, Marketing, Transportation & Storage",Jun-19,AAA
+IID000000002173257,Germany,Diversified Chemicals,Jun-15,BBB
+IID000000002173257,Germany,Diversified Chemicals,Jun-16,BBB
+IID000000002173257,Germany,Diversified Chemicals,Aug-17,BBB
+IID000000002173257,Germany,Diversified Chemicals,Aug-18,BBB
+IID000000002173257,Germany,Diversified Chemicals,Aug-19,BBB
+IID000000002173469,United Kingdom,Real Estate Management & Services,Apr-15,AA
+IID000000002173469,United Kingdom,Real Estate Management & Services,Aug-16,AA
+IID000000002173469,United Kingdom,Real Estate Management & Services,Sep-17,AA
+IID000000002173469,United Kingdom,Real Estate Management & Services,Oct-18,AA
+IID000000002173469,United Kingdom,Real Estate Management & Services,Nov-19,AA
+IID000000002174055,Switzerland,Health Care Equipment & Supplies,Feb-16,AAA
+IID000000002174055,Switzerland,Health Care Equipment & Supplies,Feb-17,AAA
+IID000000002174055,Switzerland,Health Care Equipment & Supplies,Nov-17,AAA
+IID000000002174055,Switzerland,Health Care Equipment & Supplies,Dec-18,AAA
+IID000000002174055,Switzerland,Health Care Equipment & Supplies,Jun-19,AAA
+IID000000002174156,Sweden,Oil & Gas Exploration & Production,May-15,AA
+IID000000002174156,Sweden,Oil & Gas Exploration & Production,May-16,AA
+IID000000002174156,Sweden,Oil & Gas Exploration & Production,May-17,AA
+IID000000002174156,Sweden,Oil & Gas Exploration & Production,Jun-18,AA
+IID000000002174156,Sweden,Oil & Gas Exploration & Production,Oct-19,AA
+IID000000002174446,Hungary,Integrated Oil & Gas,Aug-15,AA
+IID000000002174446,Hungary,Integrated Oil & Gas,Aug-16,AA
+IID000000002174446,Hungary,Integrated Oil & Gas,Jul-17,AA
+IID000000002174446,Hungary,Integrated Oil & Gas,Jul-18,AA
+IID000000002174446,Hungary,Integrated Oil & Gas,Oct-19,AA
+IID000000002174889,United Kingdom,Retail - Consumer Discretionary,Apr-15,AAA
+IID000000002174889,United Kingdom,Retail - Consumer Discretionary,Apr-16,AAA
+IID000000002174889,United Kingdom,Retail - Consumer Discretionary,Mar-17,AAA
+IID000000002174889,United Kingdom,Retail - Consumer Discretionary,Mar-18,AAA
+IID000000002174889,United Kingdom,Retail - Consumer Discretionary,Sep-19,AAA
+IID000000002175370,Germany,Pharmaceuticals,Sep-15,AAA
+IID000000002175370,Germany,Pharmaceuticals,Sep-16,AAA
+IID000000002175370,Germany,Pharmaceuticals,Sep-17,AAA
+IID000000002175370,Germany,Pharmaceuticals,Sep-18,AAA
+IID000000002175370,Germany,Pharmaceuticals,Jun-19,AAA
+IID000000002175544,Finland,Industrial Machinery,Jan-16,AA
+IID000000002175544,Finland,Industrial Machinery,Jan-17,AA
+IID000000002175544,Finland,Industrial Machinery,Jan-18,AA
+IID000000002175544,Finland,Industrial Machinery,Feb-19,AAA
+IID000000002175544,Finland,Industrial Machinery,Feb-20,AAA
+IID000000002175996,United Kingdom,Paper & Forest Products,Jul-15,AA
+IID000000002175996,United Kingdom,Paper & Forest Products,Jul-16,AA
+IID000000002175996,United Kingdom,Paper & Forest Products,Jul-17,AA
+IID000000002175996,United Kingdom,Paper & Forest Products,Nov-18,AAA
+IID000000002175996,United Kingdom,Paper & Forest Products,Jun-19,AAA
+IID000000002177044,Finland,"Oil & Gas Refining, Marketing, Transportation & Storage",Feb-15,AAA
+IID000000002177044,Finland,"Oil & Gas Refining, Marketing, Transportation & Storage",Mar-16,AAA
+IID000000002177044,Finland,"Oil & Gas Refining, Marketing, Transportation & Storage",Feb-17,AAA
+IID000000002177044,Finland,"Oil & Gas Refining, Marketing, Transportation & Storage",Mar-18,AAA
+IID000000002177044,Finland,"Oil & Gas Refining, Marketing, Transportation & Storage",Apr-19,AAA
+IID000000002177288,United Kingdom,Retail - Consumer Discretionary,May-16,A
+IID000000002177288,United Kingdom,Retail - Consumer Discretionary,Sep-16,A
+IID000000002177288,United Kingdom,Retail - Consumer Discretionary,Mar-17,AA
+IID000000002177288,United Kingdom,Retail - Consumer Discretionary,Mar-18,AA
+IID000000002177288,United Kingdom,Retail - Consumer Discretionary,Jun-19,AA
+IID000000002179360,United Kingdom,Real Estate Development & Diversified Activities,Mar-17,A
+IID000000002179360,United Kingdom,Real Estate Development & Diversified Activities,Jul-17,BBB
+IID000000002179360,United Kingdom,Real Estate Development & Diversified Activities,Sep-17,BBB
+IID000000002179360,United Kingdom,Real Estate Development & Diversified Activities,Sep-18,BBB
+IID000000002179360,United Kingdom,Real Estate Development & Diversified Activities,Jun-19,BBB
+IID000000002180578,Netherlands,Health Care Equipment & Supplies,Nov-15,A
+IID000000002180578,Netherlands,Health Care Equipment & Supplies,Nov-16,A
+IID000000002180578,Netherlands,Health Care Equipment & Supplies,Nov-17,A
+IID000000002180578,Netherlands,Health Care Equipment & Supplies,Dec-18,A
+IID000000002180578,Netherlands,Health Care Equipment & Supplies,Sep-19,A
+IID000000002180858,Germany,Utilities,Aug-15,BBB
+IID000000002180858,Germany,Utilities,Jul-16,A
+IID000000002180858,Germany,Utilities,Jul-17,AA
+IID000000002180858,Germany,Utilities,Jul-18,AA
+IID000000002180858,Germany,Utilities,Oct-19,A
+IID000000002181322,United Kingdom,Commercial Services & Supplies,Apr-15,AA
+IID000000002181322,United Kingdom,Commercial Services & Supplies,May-16,AA
+IID000000002181322,United Kingdom,Commercial Services & Supplies,May-17,AA
+IID000000002181322,United Kingdom,Commercial Services & Supplies,May-18,AA
+IID000000002181322,United Kingdom,Commercial Services & Supplies,Oct-19,AA
+IID000000002181334,Spain,Integrated Oil & Gas,Aug-15,AA
+IID000000002181334,Spain,Integrated Oil & Gas,Aug-16,AA
+IID000000002181334,Spain,Integrated Oil & Gas,Jul-17,AA
+IID000000002181334,Spain,Integrated Oil & Gas,Aug-18,AA
+IID000000002181334,Spain,Integrated Oil & Gas,Nov-19,AA
+IID000000002181514,United Kingdom,Metals and Mining - Non-Precious Metals,Nov-15,BBB
+IID000000002181514,United Kingdom,Metals and Mining - Non-Precious Metals,Nov-16,BBB
+IID000000002181514,United Kingdom,Metals and Mining - Non-Precious Metals,Dec-17,BBB
+IID000000002181514,United Kingdom,Metals and Mining - Non-Precious Metals,Dec-18,A
+IID000000002181514,United Kingdom,Metals and Mining - Non-Precious Metals,Sep-19,A
+IID000000002181589,Switzerland,Pharmaceuticals,Sep-15,A
+IID000000002181589,Switzerland,Pharmaceuticals,Sep-16,A
+IID000000002181589,Switzerland,Pharmaceuticals,Sep-17,A
+IID000000002181589,Switzerland,Pharmaceuticals,Sep-18,A
+IID000000002181589,Switzerland,Pharmaceuticals,Jun-19,A
+IID000000002181660,United Kingdom,Aerospace & Defense,Dec-15,BBB
+IID000000002181660,United Kingdom,Aerospace & Defense,Nov-16,BBB
+IID000000002181660,United Kingdom,Aerospace & Defense,Dec-17,BBB
+IID000000002181660,United Kingdom,Aerospace & Defense,Dec-18,BBB
+IID000000002181660,United Kingdom,Aerospace & Defense,Jul-19,BBB
+IID000000002182041,France,Household Durables,Aug-15,A
+IID000000002182041,France,Household Durables,Aug-16,A
+IID000000002182041,France,Household Durables,Aug-17,A
+IID000000002182041,France,Household Durables,Aug-18,A
+IID000000002182041,France,Household Durables,Nov-19,AA
+IID000000002182324,Switzerland,Semiconductors & Semiconductor Equipment,Jan-16,A
+IID000000002182324,Switzerland,Semiconductors & Semiconductor Equipment,Jan-17,A
+IID000000002182324,Switzerland,Semiconductors & Semiconductor Equipment,Jan-18,AA
+IID000000002182324,Switzerland,Semiconductors & Semiconductor Equipment,Feb-19,AA
+IID000000002182324,Switzerland,Semiconductors & Semiconductor Equipment,Feb-20,AA
+IID000000002182455,United Kingdom,Software & Services,May-15,BBB
+IID000000002182455,United Kingdom,Software & Services,May-16,BBB
+IID000000002182455,United Kingdom,Software & Services,May-17,BBB
+IID000000002182455,United Kingdom,Software & Services,May-18,BBB
+IID000000002182455,United Kingdom,Software & Services,Mar-19,A
+IID000000002182638,Sweden,Industrial Machinery,Jan-16,A
+IID000000002182638,Sweden,Industrial Machinery,Feb-17,AA
+IID000000002182638,Sweden,Industrial Machinery,Feb-18,AA
+IID000000002182638,Sweden,Industrial Machinery,Feb-19,AA
+IID000000002182638,Sweden,Industrial Machinery,Feb-20,AA
+IID000000002182746,Germany,Health Care Equipment & Supplies,Aug-15,AA
+IID000000002182746,Germany,Health Care Equipment & Supplies,Aug-16,AA
+IID000000002182746,Germany,Health Care Equipment & Supplies,Aug-17,AA
+IID000000002182746,Germany,Health Care Equipment & Supplies,Sep-18,AA
+IID000000002182746,Germany,Health Care Equipment & Supplies,Aug-19,AA
+IID000000002182869,Switzerland,Industrial Machinery,Jan-15,BBB
+IID000000002182869,Switzerland,Industrial Machinery,Jan-16,BBB
+IID000000002182869,Switzerland,Industrial Machinery,Feb-17,BB
+IID000000002182869,Switzerland,Industrial Machinery,Feb-18,BB
+IID000000002182869,Switzerland,Industrial Machinery,May-19,BB
+IID000000002182878,France,Electrical Equipment,Mar-15,AAA
+IID000000002182878,France,Electrical Equipment,Mar-16,AAA
+IID000000002182878,France,Electrical Equipment,Apr-17,AAA
+IID000000002182878,France,Electrical Equipment,Apr-18,AAA
+IID000000002182878,France,Electrical Equipment,Nov-19,AAA
+IID000000002183691,Germany,Industrial Conglomerates,Sep-16,AAA
+IID000000002183691,Germany,Industrial Conglomerates,Aug-17,AAA
+IID000000002183691,Germany,Industrial Conglomerates,Aug-18,AAA
+IID000000002183691,Germany,Industrial Conglomerates,Apr-19,AAA
+IID000000002183691,Germany,Industrial Conglomerates,Feb-20,AAA
+IID000000002183735,Switzerland,Specialty Chemicals,Feb-15,A
+IID000000002183735,Switzerland,Specialty Chemicals,Feb-16,A
+IID000000002183735,Switzerland,Specialty Chemicals,Jul-17,A
+IID000000002183735,Switzerland,Specialty Chemicals,Aug-18,A
+IID000000002183735,Switzerland,Specialty Chemicals,Jul-19,A
+IID000000002183971,Sweden,Construction & Engineering,Apr-15,AAA
+IID000000002183971,Sweden,Construction & Engineering,Apr-16,AAA
+IID000000002183971,Sweden,Construction & Engineering,Jul-17,AAA
+IID000000002183971,Sweden,Construction & Engineering,Aug-18,AAA
+IID000000002183971,Sweden,Construction & Engineering,Jul-19,AAA
+IID000000002184065,United Kingdom,Health Care Equipment & Supplies,Dec-15,BB
+IID000000002184065,United Kingdom,Health Care Equipment & Supplies,Dec-16,BB
+IID000000002184065,United Kingdom,Health Care Equipment & Supplies,Dec-17,BBB
+IID000000002184065,United Kingdom,Health Care Equipment & Supplies,Dec-18,BBB
+IID000000002184065,United Kingdom,Health Care Equipment & Supplies,Jun-19,A
+IID000000002184086,Ireland,Containers & Packaging,Sep-15,BBB
+IID000000002184086,Ireland,Containers & Packaging,Aug-16,BBB
+IID000000002184086,Ireland,Containers & Packaging,Sep-17,BBB
+IID000000002184086,Ireland,Containers & Packaging,Sep-18,A
+IID000000002184086,Ireland,Containers & Packaging,Oct-19,A
+IID000000002184092,Italy,Utilities,Nov-15,AA
+IID000000002184092,Italy,Utilities,Oct-16,AA
+IID000000002184092,Italy,Utilities,Oct-17,AA
+IID000000002184092,Italy,Utilities,Apr-18,AA
+IID000000002184092,Italy,Utilities,Mar-19,AA
+IID000000002184374,Switzerland,Health Care Equipment & Supplies,Jul-16,A
+IID000000002184374,Switzerland,Health Care Equipment & Supplies,Nov-16,A
+IID000000002184374,Switzerland,Health Care Equipment & Supplies,Dec-17,A
+IID000000002184374,Switzerland,Health Care Equipment & Supplies,Dec-18,A
+IID000000002184374,Switzerland,Health Care Equipment & Supplies,Nov-19,AA
+IID000000002184622,United Kingdom,Industrial Machinery,Jan-16,A
+IID000000002184622,United Kingdom,Industrial Machinery,Jan-17,A
+IID000000002184622,United Kingdom,Industrial Machinery,Jan-18,AA
+IID000000002184622,United Kingdom,Industrial Machinery,Jan-19,AA
+IID000000002184622,United Kingdom,Industrial Machinery,Jan-20,AA
+IID000000002184880,Norway,Integrated Oil & Gas,Aug-15,AAA
+IID000000002184880,Norway,Integrated Oil & Gas,Aug-16,AAA
+IID000000002184880,Norway,Integrated Oil & Gas,Jul-17,AAA
+IID000000002184880,Norway,Integrated Oil & Gas,Aug-18,AAA
+IID000000002184880,Norway,Integrated Oil & Gas,Jul-19,AAA
+IID000000002185048,Switzerland,Health Care Equipment & Supplies,Mar-15,BBB
+IID000000002185048,Switzerland,Health Care Equipment & Supplies,Mar-16,BBB
+IID000000002185048,Switzerland,Health Care Equipment & Supplies,Mar-17,BBB
+IID000000002185048,Switzerland,Health Care Equipment & Supplies,Mar-18,BBB
+IID000000002185048,Switzerland,Health Care Equipment & Supplies,Jun-19,A
+IID000000002185460,Sweden,Tobacco,Nov-15,A
+IID000000002185460,Sweden,Tobacco,Oct-16,AA
+IID000000002185460,Sweden,Tobacco,Nov-17,AA
+IID000000002185460,Sweden,Tobacco,Nov-18,AA
+IID000000002185460,Sweden,Tobacco,Jun-19,AA
+IID000000002185481,Switzerland,Real Estate Management & Services,Sep-15,BBB
+IID000000002185481,Switzerland,Real Estate Management & Services,Sep-16,BBB
+IID000000002185481,Switzerland,Real Estate Management & Services,Sep-17,BBB
+IID000000002185481,Switzerland,Real Estate Management & Services,Oct-18,A
+IID000000002185481,Switzerland,Real Estate Management & Services,Aug-19,A
+IID000000002185484,Switzerland,Telecommunication Services,Feb-15,AA
+IID000000002185484,Switzerland,Telecommunication Services,Feb-16,AA
+IID000000002185484,Switzerland,Telecommunication Services,Feb-17,AAA
+IID000000002185484,Switzerland,Telecommunication Services,Feb-18,AAA
+IID000000002185484,Switzerland,Telecommunication Services,Apr-19,AAA
+IID000000002185975,Germany,Hotels & Travel,Sep-15,AA
+IID000000002185975,Germany,Hotels & Travel,Aug-16,A
+IID000000002185975,Germany,Hotels & Travel,Apr-17,A
+IID000000002185975,Germany,Hotels & Travel,May-18,BBB
+IID000000002185975,Germany,Hotels & Travel,Aug-19,BB
+IID000000002186258,Turkey,Transportation Infrastructure,Sep-15,BBB
+IID000000002186258,Turkey,Transportation Infrastructure,Oct-16,BBB
+IID000000002186258,Turkey,Transportation Infrastructure,Oct-17,BBB
+IID000000002186258,Turkey,Transportation Infrastructure,Oct-18,BBB
+IID000000002186258,Turkey,Transportation Infrastructure,Nov-19,BBB
+IID000000002186274,United Kingdom,Real Estate Development & Diversified Activities,Mar-17,AA
+IID000000002186274,United Kingdom,Real Estate Development & Diversified Activities,Jul-17,AA
+IID000000002186274,United Kingdom,Real Estate Development & Diversified Activities,Sep-17,AA
+IID000000002186274,United Kingdom,Real Estate Development & Diversified Activities,Sep-18,AA
+IID000000002186274,United Kingdom,Real Estate Development & Diversified Activities,Jul-19,AA
+IID000000002186408,Sweden,Telecommunication Services,Mar-16,A
+IID000000002186408,Sweden,Telecommunication Services,Mar-17,A
+IID000000002186408,Sweden,Telecommunication Services,Oct-17,AA
+IID000000002186408,Sweden,Telecommunication Services,Apr-18,AAA
+IID000000002186408,Sweden,Telecommunication Services,Jul-19,AAA
+IID000000002186438,Sweden,"Technology Hardware, Storage & Peripherals",Aug-15,AA
+IID000000002186438,Sweden,"Technology Hardware, Storage & Peripherals",Aug-16,AA
+IID000000002186438,Sweden,"Technology Hardware, Storage & Peripherals",Aug-17,AA
+IID000000002186438,Sweden,"Technology Hardware, Storage & Peripherals",Sep-18,A
+IID000000002186438,Sweden,"Technology Hardware, Storage & Peripherals",Jul-19,A
+IID000000002186444,Spain,Telecommunication Services,Feb-16,A
+IID000000002186444,Spain,Telecommunication Services,Feb-17,AA
+IID000000002186444,Spain,Telecommunication Services,Feb-18,AA
+IID000000002186444,Spain,Telecommunication Services,Feb-19,A
+IID000000002186444,Spain,Telecommunication Services,Feb-20,A
+IID000000002186464,France,Professional Services,Aug-15,AA
+IID000000002186464,France,Professional Services,Aug-16,AA
+IID000000002186464,France,Professional Services,Aug-17,AA
+IID000000002186464,France,Professional Services,Aug-18,AAA
+IID000000002186464,France,Professional Services,May-19,AAA
+IID000000002186484,Sweden,Telecommunication Services,Feb-17,AAA
+IID000000002186484,Sweden,Telecommunication Services,Apr-17,AAA
+IID000000002186484,Sweden,Telecommunication Services,Feb-18,AAA
+IID000000002186484,Sweden,Telecommunication Services,Mar-19,AAA
+IID000000002186484,Sweden,Telecommunication Services,Feb-20,AAA
+IID000000002186512,Switzerland,Software & Services,Mar-15,BB
+IID000000002186512,Switzerland,Software & Services,Mar-16,BB
+IID000000002186512,Switzerland,Software & Services,Feb-17,BBB
+IID000000002186512,Switzerland,Software & Services,Feb-18,BBB
+IID000000002186512,Switzerland,Software & Services,Jun-19,A
+IID000000002186840,Germany,Steel,Nov-16,BBB
+IID000000002186840,Germany,Steel,Nov-17,A
+IID000000002186840,Germany,Steel,Dec-18,A
+IID000000002186840,Germany,Steel,Apr-19,A
+IID000000002186840,Germany,Steel,Feb-20,A
+IID000000002187773,Finland,Paper & Forest Products,Jul-15,A
+IID000000002187773,Finland,Paper & Forest Products,Jul-16,AA
+IID000000002187773,Finland,Paper & Forest Products,Jul-17,AA
+IID000000002187773,Finland,Paper & Forest Products,Jun-18,AAA
+IID000000002187773,Finland,Paper & Forest Products,Jun-19,AAA
+IID000000002187964,Netherlands,Household & Personal Products,Jul-16,A
+IID000000002187964,Netherlands,Household & Personal Products,Apr-17,A
+IID000000002187964,Netherlands,Household & Personal Products,Jul-17,A
+IID000000002187964,Netherlands,Household & Personal Products,Jul-18,A
+IID000000002187964,Netherlands,Household & Personal Products,Sep-19,A
+IID000000002188105,Germany,Telecommunication Services,May-15,B
+IID000000002188105,Germany,Telecommunication Services,May-16,B
+IID000000002188105,Germany,Telecommunication Services,May-17,B
+IID000000002188105,Germany,Telecommunication Services,Feb-18,B
+IID000000002188105,Germany,Telecommunication Services,Sep-19,B
+IID000000002188739,Denmark,Electrical Equipment,Mar-16,AA
+IID000000002188739,Denmark,Electrical Equipment,Apr-17,AAA
+IID000000002188739,Denmark,Electrical Equipment,Apr-18,AAA
+IID000000002188739,Denmark,Electrical Equipment,Aug-19,AAA
+IID000000002188739,Denmark,Electrical Equipment,Feb-20,AAA
+IID000000002189051,United Kingdom,Telecommunication Services,Mar-15,AAA
+IID000000002189051,United Kingdom,Telecommunication Services,Mar-16,AAA
+IID000000002189051,United Kingdom,Telecommunication Services,Mar-17,AAA
+IID000000002189051,United Kingdom,Telecommunication Services,Apr-18,AA
+IID000000002189051,United Kingdom,Telecommunication Services,Sep-19,AA
+IID000000002189667,Germany,Software & Services,Feb-15,BB
+IID000000002189667,Germany,Software & Services,Feb-16,BB
+IID000000002189667,Germany,Software & Services,Jan-17,BB
+IID000000002189667,Germany,Software & Services,Jan-18,BBB
+IID000000002189667,Germany,Software & Services,Mar-19,BBB
+IID000000002199527,United Kingdom,Real Estate Development & Diversified Activities,Mar-16,AAA
+IID000000002199527,United Kingdom,Real Estate Development & Diversified Activities,Mar-17,AAA
+IID000000002199527,United Kingdom,Real Estate Development & Diversified Activities,Oct-17,AAA
+IID000000002199527,United Kingdom,Real Estate Development & Diversified Activities,Oct-18,AAA
+IID000000002199527,United Kingdom,Real Estate Development & Diversified Activities,Nov-19,AAA
+IID000000002201191,Ireland,Construction Materials,May-15,BBB
+IID000000002201191,Ireland,Construction Materials,Jun-16,BB
+IID000000002201191,Ireland,Construction Materials,May-17,BBB
+IID000000002201191,Ireland,Construction Materials,May-18,BBB
+IID000000002201191,Ireland,Construction Materials,Nov-19,BBB
+IID000000002203350,Russia,Retail - Food & Staples,Jul-18,B
+IID000000002203350,Russia,Retail - Food & Staples,Aug-19,B
+IID000000002226401,Denmark,Utilities,Dec-15,A
+IID000000002226401,Denmark,Utilities,Jun-16,AA
+IID000000002226401,Denmark,Utilities,Jul-17,AAA
+IID000000002226401,Denmark,Utilities,Jul-18,AAA
+IID000000002226401,Denmark,Utilities,Jul-19,AAA
+IID000000002232880,Italy,Life & Health Insurance,Jul-16,BB
+IID000000002232880,Italy,Life & Health Insurance,Apr-17,BB
+IID000000002232880,Italy,Life & Health Insurance,Apr-18,BB
+IID000000002232880,Italy,Life & Health Insurance,Nov-19,BBB
+IID000000002236453,Germany,Construction & Farm Machinery & Heavy Trucks,Apr-19,A
+IID000000002257126,Denmark,Commercial Services & Supplies,Mar-16,AA
+IID000000002257126,Denmark,Commercial Services & Supplies,Feb-17,AA
+IID000000002257126,Denmark,Commercial Services & Supplies,Apr-17,AA
+IID000000002257126,Denmark,Commercial Services & Supplies,Apr-18,AA
+IID000000002257126,Denmark,Commercial Services & Supplies,Jul-19,AA
+IID000000002278131,Germany,Specialty Chemicals,Jan-15,A
+IID000000002278131,Germany,Specialty Chemicals,Feb-16,A
+IID000000002278131,Germany,Specialty Chemicals,Feb-17,A
+IID000000002278131,Germany,Specialty Chemicals,Apr-18,A
+IID000000002278131,Germany,Specialty Chemicals,Jul-19,A
+IID000000002278140,Norway,Oil & Gas Exploration & Production,Jul-15,BBB
+IID000000002278140,Norway,Oil & Gas Exploration & Production,Jun-16,BBB
+IID000000002278140,Norway,Oil & Gas Exploration & Production,Jun-17,A
+IID000000002278140,Norway,Oil & Gas Exploration & Production,Jun-18,A
+IID000000002278140,Norway,Oil & Gas Exploration & Production,Jul-19,A
+IID000000002390745,United Kingdom,Household & Personal Products,Jul-15,A
+IID000000002390745,United Kingdom,Household & Personal Products,May-16,A
+IID000000002390745,United Kingdom,Household & Personal Products,Aug-17,A
+IID000000002390745,United Kingdom,Household & Personal Products,Jul-18,A
+IID000000002390745,United Kingdom,Household & Personal Products,Aug-19,A
+IID000000002416719,Denmark,"Textiles, Apparel & Luxury Goods",Sep-15,AA
+IID000000002416719,Denmark,"Textiles, Apparel & Luxury Goods",Sep-16,AAA
+IID000000002416719,Denmark,"Textiles, Apparel & Luxury Goods",Aug-17,AAA
+IID000000002416719,Denmark,"Textiles, Apparel & Luxury Goods",Aug-18,AAA
+IID000000002416719,Denmark,"Textiles, Apparel & Luxury Goods",Jun-19,AAA
+IID000000002432356,Netherlands,Semiconductors & Semiconductor Equipment,Jan-16,BBB
+IID000000002432356,Netherlands,Semiconductors & Semiconductor Equipment,Jan-17,BB
+IID000000002432356,Netherlands,Semiconductors & Semiconductor Equipment,Jan-18,BB
+IID000000002432356,Netherlands,Semiconductors & Semiconductor Equipment,Mar-19,BB
+IID000000002432356,Netherlands,Semiconductors & Semiconductor Equipment,Feb-20,BB
+IID000000002576329,Denmark,Specialty Chemicals,Jan-16,AA
+IID000000002576329,Denmark,Specialty Chemicals,Feb-17,AA
+IID000000002576329,Denmark,Specialty Chemicals,Feb-18,AA
+IID000000002576329,Denmark,Specialty Chemicals,Mar-19,AA
+IID000000002576329,Denmark,Specialty Chemicals,Feb-20,AA
+IID000000002591911,Spain,Software & Services,May-15,AA
+IID000000002591911,Spain,Software & Services,May-16,AA
+IID000000002591911,Spain,Software & Services,May-17,AA
+IID000000002591911,Spain,Software & Services,Jun-18,AA
+IID000000002591911,Spain,Software & Services,Aug-19,AA
+IID000000002596635,United Kingdom,Retail - Consumer Discretionary,Jun-15,BBB
+IID000000002596635,United Kingdom,Retail - Consumer Discretionary,May-16,BBB
+IID000000002596635,United Kingdom,Retail - Consumer Discretionary,May-17,BBB
+IID000000002596635,United Kingdom,Retail - Consumer Discretionary,Jun-18,A
+IID000000002596635,United Kingdom,Retail - Consumer Discretionary,Aug-19,A
+IID000000002598678,Spain,Construction & Engineering,Apr-15,AAA
+IID000000002598678,Spain,Construction & Engineering,Apr-16,AAA
+IID000000002598678,Spain,Construction & Engineering,Jul-17,AAA
+IID000000002598678,Spain,Construction & Engineering,Aug-18,AAA
+IID000000002598678,Spain,Construction & Engineering,Aug-19,AA
+IID000000002609331,Isle of Man,Casinos & Gaming,Jul-16,BBB
+IID000000002609331,Isle of Man,Casinos & Gaming,Jul-17,BBB
+IID000000002609331,Isle of Man,Casinos & Gaming,Jul-18,BBB
+IID000000002609331,Isle of Man,Casinos & Gaming,Feb-19,BBB
+IID000000002609331,Isle of Man,Casinos & Gaming,Nov-19,BBB
+IID000000002619434,Switzerland,Metals and Mining - Non-Precious Metals,Nov-15,BB
+IID000000002619434,Switzerland,Metals and Mining - Non-Precious Metals,Nov-16,BB
+IID000000002619434,Switzerland,Metals and Mining - Non-Precious Metals,Dec-17,BB
+IID000000002619434,Switzerland,Metals and Mining - Non-Precious Metals,Nov-18,BB
+IID000000002619434,Switzerland,Metals and Mining - Non-Precious Metals,Jun-19,BB
+IID000000002630755,Italy,"Textiles, Apparel & Luxury Goods",Aug-15,BB
+IID000000002630755,Italy,"Textiles, Apparel & Luxury Goods",Aug-16,BBB
+IID000000002630755,Italy,"Textiles, Apparel & Luxury Goods",Aug-17,BBB
+IID000000002630755,Italy,"Textiles, Apparel & Luxury Goods",Sep-18,BBB
+IID000000002630755,Italy,"Textiles, Apparel & Luxury Goods",Oct-19,BBB
+IID000000002631142,Cyprus,Metals and Mining - Precious Metals,Jul-15,BBB
+IID000000002631142,Cyprus,Metals and Mining - Precious Metals,Mar-16,BBB
+IID000000002631142,Cyprus,Metals and Mining - Precious Metals,Mar-17,BBB
+IID000000002631142,Cyprus,Metals and Mining - Precious Metals,Mar-18,BBB
+IID000000002631142,Cyprus,Metals and Mining - Precious Metals,Aug-19,A
+IID000000002631628,Russia,Steel,Nov-15,CCC
+IID000000002631628,Russia,Steel,Nov-16,CCC
+IID000000002631628,Russia,Steel,Nov-17,CCC
+IID000000002631628,Russia,Steel,Nov-18,CCC
+IID000000002631628,Russia,Steel,Sep-19,B
+IID000000002632309,Ireland,Pharmaceuticals,Jun-15,BBB
+IID000000002632309,Ireland,Pharmaceuticals,Jun-16,BBB
+IID000000002632309,Ireland,Pharmaceuticals,Jun-17,A
+IID000000002632309,Ireland,Pharmaceuticals,Jun-18,A
+IID000000002632309,Ireland,Pharmaceuticals,Jun-19,A
+IID000000002643578,United Kingdom,Health Care Providers & Services,Jun-15,A
+IID000000002643578,United Kingdom,Health Care Providers & Services,Apr-16,A
+IID000000002643578,United Kingdom,Health Care Providers & Services,Apr-17,A
+IID000000002643578,United Kingdom,Health Care Providers & Services,Mar-18,A
+IID000000002643578,United Kingdom,Health Care Providers & Services,Jul-19,A
+IID000000002654293,Germany,Telecommunication Services,Feb-16,AA
+IID000000002654293,Germany,Telecommunication Services,Feb-17,AA
+IID000000002654293,Germany,Telecommunication Services,Feb-18,AA
+IID000000002654293,Germany,Telecommunication Services,Mar-19,AA
+IID000000002654293,Germany,Telecommunication Services,Feb-20,AA
+IID000000002659917,United Kingdom,Media & Entertainment,Mar-15,AAA
+IID000000002659917,United Kingdom,Media & Entertainment,Feb-16,AAA
+IID000000002659917,United Kingdom,Media & Entertainment,Mar-17,AAA
+IID000000002659917,United Kingdom,Media & Entertainment,Apr-18,AAA
+IID000000002659917,United Kingdom,Media & Entertainment,Jul-19,AAA
+IID000000002669433,United Kingdom,Media & Entertainment,Apr-16,A
+IID000000002669433,United Kingdom,Media & Entertainment,Oct-16,A
+IID000000002669433,United Kingdom,Media & Entertainment,May-17,A
+IID000000002669433,United Kingdom,Media & Entertainment,Jun-18,A
+IID000000002669433,United Kingdom,Media & Entertainment,Oct-19,BBB
+IID000000002670264,Germany,Real Estate Management & Services,Feb-15,BBB
+IID000000002670264,Germany,Real Estate Management & Services,Feb-16,BBB
+IID000000002670264,Germany,Real Estate Management & Services,Apr-17,BBB
+IID000000002670264,Germany,Real Estate Management & Services,May-18,BBB
+IID000000002670264,Germany,Real Estate Management & Services,Jul-19,A
+IID000000002670343,Germany,Construction & Farm Machinery & Heavy Trucks,Aug-15,A
+IID000000002670343,Germany,Construction & Farm Machinery & Heavy Trucks,Apr-16,A
+IID000000002670343,Germany,Construction & Farm Machinery & Heavy Trucks,Apr-17,A
+IID000000002670343,Germany,Construction & Farm Machinery & Heavy Trucks,May-18,A
+IID000000002670343,Germany,Construction & Farm Machinery & Heavy Trucks,Aug-19,A
+IID000000002672787,Germany,Commodity Chemicals,Oct-15,B
+IID000000002672787,Germany,Commodity Chemicals,Oct-16,BB
+IID000000002672787,Germany,Commodity Chemicals,Oct-17,BB
+IID000000002672787,Germany,Commodity Chemicals,Oct-18,BB
+IID000000002672787,Germany,Commodity Chemicals,Jun-19,BB
+IID000000002676654,United Kingdom,Diversified Financials,Feb-16,A
+IID000000002676654,United Kingdom,Diversified Financials,Feb-17,A
+IID000000002676654,United Kingdom,Diversified Financials,Feb-18,A
+IID000000002676654,United Kingdom,Diversified Financials,Mar-19,AA
+IID000000002676654,United Kingdom,Diversified Financials,Feb-20,AA
+IID000000002676862,Ireland,Building Products,Jan-16,AA
+IID000000002676862,Ireland,Building Products,Jan-17,AA
+IID000000002676862,Ireland,Building Products,Jan-18,AA
+IID000000002676862,Ireland,Building Products,Feb-19,AA
+IID000000002676862,Ireland,Building Products,Feb-20,AA
+IID000000002680214,Ireland,Pharmaceuticals,Sep-16,BB
+IID000000002680214,Ireland,Pharmaceuticals,Jul-17,BB
+IID000000002680214,Ireland,Pharmaceuticals,Aug-18,BBB
+IID000000002680214,Ireland,Pharmaceuticals,Jun-19,BBB
+IID000000002680214,Ireland,Pharmaceuticals,Feb-20,BBB
+IID000000002702852,United Kingdom,Industrial Machinery,Jan-16,B
+IID000000002702852,United Kingdom,Industrial Machinery,Feb-17,B
+IID000000002702852,United Kingdom,Industrial Machinery,Feb-18,BB
+IID000000002702852,United Kingdom,Industrial Machinery,Mar-19,BBB
+IID000000002702852,United Kingdom,Industrial Machinery,Jan-20,BBB
+IID000000002705885,Germany,Software & Services,May-15,AAA
+IID000000002705885,Germany,Software & Services,May-16,AAA
+IID000000002705885,Germany,Software & Services,May-17,AAA
+IID000000002705885,Germany,Software & Services,Jun-18,AAA
+IID000000002705885,Germany,Software & Services,Apr-19,AAA
+IID000000002708013,Spain,Telecommunication Services,Apr-16,B
+IID000000002708013,Spain,Telecommunication Services,Apr-17,B
+IID000000002708013,Spain,Telecommunication Services,Mar-18,BB
+IID000000002708013,Spain,Telecommunication Services,Apr-19,BB
+IID000000002709795,Germany,Retail - Consumer Discretionary,Jan-16,BBB
+IID000000002709795,Germany,Retail - Consumer Discretionary,Jan-17,BBB
+IID000000002709795,Germany,Retail - Consumer Discretionary,Jan-18,A
+IID000000002709795,Germany,Retail - Consumer Discretionary,Jun-19,A
+IID000000002716127,United Kingdom,Media & Entertainment,Feb-16,AA
+IID000000002716127,United Kingdom,Media & Entertainment,Mar-17,AA
+IID000000002716127,United Kingdom,Media & Entertainment,Mar-18,AA
+IID000000002716127,United Kingdom,Media & Entertainment,Sep-18,AA
+IID000000002716127,United Kingdom,Media & Entertainment,Sep-19,AA
+IID000000002717694,Ireland,Building Products,Feb-17,A
+IID000000002717694,Ireland,Building Products,Feb-17,A
+IID000000002717694,Ireland,Building Products,May-17,AA
+IID000000002717694,Ireland,Building Products,Mar-18,AAA
+IID000000002717694,Ireland,Building Products,Jun-19,AAA
+IID000000002721268,Luxembourg,Health Care Equipment & Supplies,Nov-15,BB
+IID000000002721268,Luxembourg,Health Care Equipment & Supplies,Sep-16,BB
+IID000000002721268,Luxembourg,Health Care Equipment & Supplies,Sep-17,BB
+IID000000002721268,Luxembourg,Health Care Equipment & Supplies,Sep-18,BB
+IID000000002721268,Luxembourg,Health Care Equipment & Supplies,Aug-19,BB
+IID000000002721923,Ireland,Health Care Equipment & Supplies,Dec-15,B
+IID000000002721923,Ireland,Health Care Equipment & Supplies,Dec-16,B
+IID000000002721923,Ireland,Health Care Equipment & Supplies,Dec-17,BB
+IID000000002721923,Ireland,Health Care Equipment & Supplies,Dec-18,BB
+IID000000002721923,Ireland,Health Care Equipment & Supplies,Mar-19,BB
+IID000000002723000,Spain,Transportation Infrastructure,Jun-15,A
+IID000000002723000,Spain,Transportation Infrastructure,Jun-16,A
+IID000000002723000,Spain,Transportation Infrastructure,Jun-17,A
+IID000000002723000,Spain,Transportation Infrastructure,Jun-18,A
+IID000000002723000,Spain,Transportation Infrastructure,Oct-19,A
+IID000000002727283,United Kingdom,Interactive Media & Services,Jan-16,BB
+IID000000002727283,United Kingdom,Interactive Media & Services,Jan-17,BB
+IID000000002727283,United Kingdom,Interactive Media & Services,Nov-17,BB
+IID000000002727283,United Kingdom,Interactive Media & Services,Nov-18,BBB
+IID000000002727283,United Kingdom,Interactive Media & Services,Oct-19,BBB
+IID000000002740659,Netherlands,Media & Entertainment,Jun-15,B
+IID000000002740659,Netherlands,Media & Entertainment,Apr-16,B
+IID000000002740659,Netherlands,Media & Entertainment,Apr-17,B
+IID000000002740659,Netherlands,Media & Entertainment,May-18,B
+IID000000002740659,Netherlands,Media & Entertainment,Dec-19,BB
+IID000000002742659,United States of America,Professional Services,Sep-16,B
+IID000000002742659,United States of America,Professional Services,Mar-17,BB
+IID000000002742659,United States of America,Professional Services,Apr-17,BB
+IID000000002742659,United States of America,Professional Services,Apr-18,BBB
+IID000000002742659,United States of America,Professional Services,Sep-19,A
+IID000000002744093,Germany,Specialty Chemicals,Jul-16,BBB
+IID000000002744093,Germany,Specialty Chemicals,Feb-17,BBB
+IID000000002744093,Germany,Specialty Chemicals,Feb-18,A
+IID000000002744093,Germany,Specialty Chemicals,Mar-19,A
+IID000000002744093,Germany,Specialty Chemicals,Jan-20,A
+IID000000002748542,United Kingdom,Electrical Equipment,Jan-15,BBB
+IID000000002748542,United Kingdom,Electrical Equipment,Feb-16,BBB
+IID000000002748542,United Kingdom,Electrical Equipment,Apr-17,BBB
+IID000000002748542,United Kingdom,Electrical Equipment,Mar-18,BB
+IID000000002748542,United Kingdom,Electrical Equipment,Jul-19,BB
+IID000000002766031,United Kingdom,Beverages,Jun-15,AAA
+IID000000002766031,United Kingdom,Beverages,Jun-16,AAA
+IID000000002766031,United Kingdom,Beverages,Jun-17,AAA
+IID000000002766031,United Kingdom,Beverages,Aug-18,AAA
+IID000000002766031,United Kingdom,Beverages,Nov-19,AAA
+IID000000002769077,Germany,Utilities,Apr-17,B
+IID000000002769077,Germany,Utilities,Apr-18,B
+IID000000002769077,Germany,Utilities,Jul-19,BB
+IID000000002773073,Netherlands,Retail - Consumer Discretionary,Oct-17,B
+IID000000002773073,Netherlands,Retail - Consumer Discretionary,Nov-18,BB
+IID000000002773073,Netherlands,Retail - Consumer Discretionary,Nov-19,BB
+IID000000002784170,Netherlands,Diversified Financials,Feb-15,AA
+IID000000002784170,Netherlands,Diversified Financials,Feb-16,A
+IID000000002784170,Netherlands,Diversified Financials,Feb-17,A
+IID000000002784170,Netherlands,Diversified Financials,Feb-18,A
+IID000000002784170,Netherlands,Diversified Financials,Jun-19,A
+IID000000002795728,Sweden,Household & Personal Products,Jul-15,AAA
+IID000000002795728,Sweden,Household & Personal Products,Jul-16,AAA
+IID000000002795728,Sweden,Household & Personal Products,Sep-17,AAA
+IID000000002795728,Sweden,Household & Personal Products,Sep-18,AAA
+IID000000002795728,Sweden,Household & Personal Products,Oct-19,AAA
+IID000000002796844,United Kingdom,Energy Equipment & Services,Nov-15,A
+IID000000002796844,United Kingdom,Energy Equipment & Services,Nov-16,AA
+IID000000002796844,United Kingdom,Energy Equipment & Services,Nov-17,AA
+IID000000002796844,United Kingdom,Energy Equipment & Services,Dec-18,AA
+IID000000002796844,United Kingdom,Energy Equipment & Services,Jul-19,AA
+IID000000002812695,Germany,Retail - Food & Staples,Sep-15,AA
+IID000000002812695,Germany,Retail - Food & Staples,Sep-16,AA
+IID000000002812695,Germany,Retail - Food & Staples,Oct-17,AA
+IID000000002812695,Germany,Retail - Food & Staples,Oct-18,AA
+IID000000002812695,Germany,Retail - Food & Staples,Aug-19,AA
+IID000000002816597,Germany,Real Estate Management & Services,Sep-15,A
+IID000000002816597,Germany,Real Estate Management & Services,Sep-16,A
+IID000000002816597,Germany,Real Estate Management & Services,Oct-17,AA
+IID000000002816597,Germany,Real Estate Management & Services,Nov-18,AA
+IID000000002816597,Germany,Real Estate Management & Services,Nov-19,AA
+IID000000002820990,United Kingdom,Specialty Chemicals,Feb-15,BBB
+IID000000002820990,United Kingdom,Specialty Chemicals,Feb-16,BBB
+IID000000002820990,United Kingdom,Specialty Chemicals,Jun-17,BBB
+IID000000002820990,United Kingdom,Specialty Chemicals,May-18,BBB
+IID000000002820990,United Kingdom,Specialty Chemicals,Oct-19,BBB
+IID000000002837879,United Kingdom,Electrical Equipment,Mar-15,BB
+IID000000002837879,United Kingdom,Electrical Equipment,Mar-16,BBB
+IID000000002837879,United Kingdom,Electrical Equipment,Apr-17,BBB
+IID000000002837879,United Kingdom,Electrical Equipment,Apr-18,BBB
+IID000000002837879,United Kingdom,Electrical Equipment,Sep-19,BB
+IID000000002838085,Spain,Restaurants,Jan-20,BBB
+IID000000002844479,Sweden,Construction & Farm Machinery & Heavy Trucks,Jul-18,BBB
+IID000000002844479,Sweden,Construction & Farm Machinery & Heavy Trucks,May-19,A
+IID000000002863229,Germany,Retail - Consumer Discretionary,Apr-18,BB
+IID000000002863229,Germany,Retail - Consumer Discretionary,Aug-18,BB
+IID000000002863229,Germany,Retail - Consumer Discretionary,Nov-19,A
+IID000000002922669,Germany,Trading Companies & Distributors,May-15,AA
+IID000000002922669,Germany,Trading Companies & Distributors,Jun-16,AA
+IID000000002922669,Germany,Trading Companies & Distributors,Jun-17,AA
+IID000000002922669,Germany,Trading Companies & Distributors,Jun-18,AA
+IID000000002922669,Germany,Trading Companies & Distributors,Aug-19,AA
